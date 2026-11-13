@@ -1,0 +1,186 @@
+<view class="detail-page {{themeClass}}">
+  <view class="hero-card">
+    <view class="hero-title">{{detail.name}}</view>
+    <view class="hero-subtitle">{{detail.category}} · {{detail.status}}</view>
+    <view class="hero-desc">{{detail.description || detail.desc}}</view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">基础信息</view>
+    <view class="info-row">
+      <text class="info-label">来源：</text>
+      <text class="info-text">{{detail.source_name}}</text>
+    </view>
+    <view wx:if="{{detail.has_start_time}}" class="info-row">
+      <text class="info-label">报名开始：</text>
+      <text class="info-text">{{detail.registration_start_time}}</text>
+    </view>
+    <view wx:if="{{detail.has_deadline}}" class="info-row">
+      <text class="info-label">报名截止：</text>
+      <text class="info-text highlight">{{detail.deadline}}</text>
+    </view>
+    <view wx:if="{{detail.deadline_source}}" class="info-row">
+      <text class="info-label">日期来源：</text>
+      <text class="info-text">{{detail.deadline_source}}</text>
+    </view>
+    <view wx:if="{{detail.has_location}}" class="info-row">
+      <text class="info-label">地点：</text>
+      <text class="info-text">{{detail.location}}</text>
+    </view>
+    <view class="info-row">
+      <text class="info-label">含金量：</text>
+      <text class="info-text">{{detail.prestige_score ? detail.prestige_score + '分 · ' + detail.prestige_grade + '级' : detail.level}}</text>
+    </view>
+    <view wx:if="{{detail.competition_level}}" class="info-row">
+      <text class="info-label">竞赛级别：</text>
+      <text class="info-text">{{detail.competition_level}}</text>
+    </view>
+  </view>
+
+  <view wx:if="{{detail.prestige}}" class="content-card prestige-card">
+    <view class="section-title">含金量知识库</view>
+    <view class="prestige-top">
+      <view>
+        <view class="prestige-score">{{detail.prestige.score}}</view>
+        <view class="prestige-label">综合评分</view>
+      </view>
+      <view class="prestige-grade">{{detail.prestige.grade}}级</view>
+    </view>
+    <view class="info-text">{{detail.prestige.summary}}</view>
+    <view class="prestige-grid">
+      <view class="prestige-item">
+        <text>榜单收录</text>
+        <text>{{detail.prestige.ranking_included ? '已匹配' : '待确认'}}</text>
+      </view>
+      <view class="prestige-item">
+        <text>学校认定</text>
+        <text>{{detail.prestige.school_recognized ? '已认定' : '待确认'}}</text>
+      </view>
+      <view class="prestige-item">
+        <text>主办权威</text>
+        <text>{{detail.prestige.dimensions.organizer_authority}}</text>
+      </view>
+      <view class="prestige-item">
+        <text>参赛规模</text>
+        <text>{{detail.prestige.dimensions.participation_scale}}</text>
+      </view>
+      <view class="prestige-item">
+        <text>行业认可</text>
+        <text>{{detail.prestige.dimensions.industry_recognition}}</text>
+      </view>
+      <view class="prestige-item">
+        <text>获奖难度</text>
+        <text>{{detail.prestige.dimensions.award_difficulty}}</text>
+      </view>
+    </view>
+  </view>
+
+  <view wx:if="{{detail.is_hit_recognized}}" class="content-card bonus-card">
+    <view class="section-title">校内加分信息</view>
+    <view class="bonus-meta">
+      <text class="bonus-pill">学生手册第{{detail.handbook_rank}}项</text>
+      <text class="bonus-source">{{detail.handbook_source}}</text>
+    </view>
+    <view class="info-text">{{detail.bonus_summary}}</view>
+    <view wx:if="{{detail.special_bonus_note}}" class="policy-note">特殊规则：{{detail.special_bonus_note}}</view>
+
+    <view wx:if="{{detail.bonus_policy}}" class="policy-block">
+      <view class="policy-title">推免优秀加分</view>
+      <block wx:for="{{detail.bonus_policy.recommendation_bonus}}" wx:key="*this">
+        <view class="policy-item">{{item}}</view>
+      </block>
+
+      <view class="policy-title">创新创业学分</view>
+      <block wx:for="{{detail.bonus_policy.innovation_credit}}" wx:key="*this">
+        <view class="policy-item">{{item}}</view>
+      </block>
+
+      <view class="policy-title">素质考评</view>
+      <block wx:for="{{detail.bonus_policy.quality_points}}" wx:key="*this">
+        <view class="policy-item">{{item}}</view>
+      </block>
+
+      <view class="policy-title">认定提醒</view>
+      <block wx:for="{{detail.bonus_policy.notes}}" wx:key="*this">
+        <view class="policy-item">{{item}}</view>
+      </block>
+    </view>
+  </view>
+
+  <view wx:if="{{detail.has_conditions}}" class="content-card">
+    <view class="section-title">{{detail.condition_label || '报名条件'}}</view>
+    <view class="info-text">{{detail.conditions || detail.target_audience}}</view>
+  </view>
+
+  <view wx:if="{{detail.has_materials}}" class="content-card">
+    <view class="section-title">材料清单</view>
+    <view class="tag-wrap">
+      <block wx:for="{{detail.materials}}" wx:key="*this">
+        <text class="tag">{{item}}</text>
+      </block>
+    </view>
+  </view>
+
+  <view wx:if="{{detail.has_schedule}}" class="content-card">
+    <view class="section-title">竞赛日程</view>
+    <block wx:for="{{detail.schedule}}" wx:key="title">
+      <view class="timeline-item">
+        <view class="timeline-title">{{item.title}}</view>
+        <view class="timeline-time">{{item.time}}</view>
+        <view wx:if="{{item.desc}}" class="timeline-desc">{{item.desc}}</view>
+      </view>
+    </block>
+  </view>
+
+  <view wx:if="{{detail.has_rules}}" class="content-card">
+    <view class="section-title">规则与要求</view>
+    <view class="info-text">{{detail.rules}}</view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">含金量分析</view>
+    <view class="value-box">
+      <view class="value-item">
+        <view class="value-label">升学</view>
+        <view class="value-score">{{detail.value.study}}</view>
+      </view>
+      <view class="value-item">
+        <view class="value-label">就业</view>
+        <view class="value-score">{{detail.value.job}}</view>
+      </view>
+      <view class="value-item">
+        <view class="value-label">加分</view>
+        <view class="value-score">{{detail.value.bonus}}</view>
+      </view>
+    </view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">AI 辅助建议</view>
+    <view class="info-text">{{detail.advice}}</view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">相关队伍</view>
+    <block wx:if="{{relatedTeams.length > 0}}">
+      <block wx:for="{{relatedTeams}}" wx:key="id" wx:for-item="team">
+        <view class="team-row" bindtap="openTeamDetail" data-id="{{team.id}}">
+          <view class="team-main">
+            <view class="team-title">{{team.title}}</view>
+            <view class="team-desc">{{team.publisher}} · {{team.rolesText}}</view>
+          </view>
+          <view class="team-status">{{team.status}}</view>
+        </view>
+      </block>
+    </block>
+    <view wx:else class="empty-team">暂无相关队伍，可到匹配中心发布招募。</view>
+  </view>
+
+  <view class="bottom-actions">
+    <button class="secondary-btn" size="mini" bindtap="copyOfficialLink">复制官网</button>
+    <button class="primary-btn" size="mini" bindtap="openOfficial">访问官网</button>
+    <button class="primary-btn muted" size="mini" bindtap="addToMyContest">加入我的竞赛</button>
+    <button class="share-btn" size="mini" open-type="share">分享竞赛</button>
+  </view>
+</view>
+

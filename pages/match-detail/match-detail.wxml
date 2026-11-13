@@ -1,0 +1,77 @@
+<view class="detail-page {{themeClass}}">
+  <view class="hero-card">
+    <view class="hero-title">{{detail.title}}</view>
+    <view class="hero-subtitle">{{detail.subtitle}}</view>
+    <view class="score-box big-score">
+      <view class="score-value">{{detail.score}}</view>
+      <view class="score-label">推荐指数</view>
+    </view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">简介</view>
+    <view class="info-text">{{detail.intro}}</view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">需求信息</view>
+    <view class="info-row">
+      <text class="info-label">当前需求：</text>
+      <text class="info-text">{{detail.demand}}</text>
+    </view>
+    <view class="info-row">
+      <text class="info-label">资源支持：</text>
+      <text class="info-text">{{detail.members}}</text>
+    </view>
+    <view class="info-row">
+      <text class="info-label">协作方式：</text>
+      <text class="info-text">{{detail.mode}} · {{detail.availability}}</text>
+    </view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">推荐解释</view>
+    <view class="info-text">{{detail.advice}}</view>
+    <view class="reason-tags">
+      <block wx:for="{{detail.reasons}}" wx:key="*this">
+        <text class="reason-tag">{{item}}</text>
+      </block>
+    </view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">维度拆解</view>
+    <view class="factor-row">
+      <block wx:for="{{detail.score_breakdown}}" wx:key="label">
+        <view class="factor-item">
+          <view class="factor-value">{{item.value}}</view>
+          <view class="factor-label">{{item.label}}</view>
+        </view>
+      </block>
+    </view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">能力标签</view>
+    <view class="tag-wrap">
+      <block wx:for="{{detail.tags}}" wx:key="*this">
+        <text class="tag">{{item}}</text>
+      </block>
+    </view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">适合人群</view>
+    <view class="info-text">{{detail.fit}}</view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">风险提醒</view>
+    <view class="info-text">{{detail.risk}}</view>
+  </view>
+
+  <button class="primary-btn action-btn" size="mini" bindtap="addToMyMatch">
+    {{type === 'team' ? '加入我的队伍' : '加入我的导师'}}
+  </button>
+</view>
+

@@ -1,0 +1,76 @@
+<view class="mine-page {{themeClass}}">
+  <view class="profile-card">
+    <view class="profile-main">
+      <view class="profile-name">{{userInfo.name || '未填写姓名'}}</view>
+      <view class="profile-grid">
+        <view class="profile-field">
+          <text class="field-label">校区</text>
+          <text class="field-value">{{userInfo.campus || '未填写'}}</text>
+        </view>
+        <view class="profile-field">
+          <text class="field-label">学院</text>
+          <text class="field-value">{{userInfo.college || '未填写'}}</text>
+        </view>
+        <view class="profile-field">
+          <text class="field-label">专业</text>
+          <text class="field-value">{{userInfo.major || '未填写'}}</text>
+        </view>
+        <view class="profile-field">
+          <text class="field-label">年级</text>
+          <text class="field-value">{{userInfo.grade || '未填写'}}</text>
+        </view>
+        <view class="profile-field full">
+          <text class="field-label">学号</text>
+          <text class="field-value">{{userInfo.studentId || '未填写'}}</text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class="theme-card">
+    <view class="theme-copy">
+      <view class="theme-title">界面模式</view>
+      <view class="theme-desc">{{isDarkTheme ? '冷调蓝灰深色科技风' : '糯米雪糕浅色模式'}}</view>
+    </view>
+    <view class="theme-switch">
+      <view class="theme-option {{!isDarkTheme ? 'active' : ''}}" data-mode="light" bindtap="changeThemeMode">浅色</view>
+      <view class="theme-option {{isDarkTheme ? 'active' : ''}}" data-mode="dark" bindtap="changeThemeMode">深色</view>
+    </view>
+  </view>
+
+  <button bindtap="gotoinfor" class="my-solid-btn" size="default" plain>编辑个人信息</button>
+
+  <view class="stats-card">
+    <block wx:for="{{stats}}" wx:key="label">
+      <view class="stat-item">
+        <view class="stat-value">{{item.value}}</view>
+        <view class="stat-label">{{item.label}}</view>
+      </view>
+    </block>
+  </view>
+
+  <view class="section-title">我的空间</view>
+  <view class="entry-card" bindtap="goMyContests">
+    <view class="entry-main">
+      <view class="entry-title">我的竞赛</view>
+      <view class="entry-desc">已加入 {{myContests.length}} 个竞赛 · {{nextReminderText}}</view>
+    </view>
+    <view class="entry-arrow">›</view>
+  </view>
+
+  <view class="entry-card" bindtap="goMyTeams">
+    <view class="entry-main">
+      <view class="entry-title">我的组队</view>
+      <view class="entry-desc">已匹配 {{myMatches.length}} 个队伍，进入后查看队伍与成员信息</view>
+    </view>
+    <view class="entry-arrow">›</view>
+  </view>
+
+  <view class="tip-card">
+    <view class="tip-title">使用建议</view>
+    <view class="tip-text">
+      你可以从竞赛详情页加入“我的竞赛”，从匹配页发送队友申请；发布者同意后才会进入“我的组队”。
+    </view>
+  </view>
+</view>
+

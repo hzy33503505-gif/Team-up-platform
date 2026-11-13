@@ -1,0 +1,98 @@
+<view class="ai-page {{themeClass}}">
+  <view class="agent-head">
+    <view>
+      <view class="hero-title">竞赛智能体</view>
+      <view class="hero-subtitle">竞赛推荐 · 队友匹配 · 生涯规划 · 材料准备</view>
+    </view>
+  </view>
+
+  <view class="profile-card" bindtap="goProfile">
+    <view class="profile-label">当前画像</view>
+    <view class="profile-text">{{profileSummary}}</view>
+    <view class="profile-tip">点击可补充年级、专业、意向、学分绩和联系方式</view>
+  </view>
+
+  <view class="model-card">
+    <view class="model-main">
+      <view class="model-title">模型配置</view>
+      <view class="model-text">{{aiStatus.modelStatusText}}</view>
+    </view>
+    <view class="model-state {{aiStatus.modelReady ? 'on' : ''}}">{{aiStatus.modelStateText}}</view>
+  </view>
+
+  <view class="quick-card">
+    <view class="section-title">快捷提问</view>
+    <scroll-view scroll-x class="quick-scroll" enhanced show-scrollbar="{{false}}">
+      <view class="quick-wrap">
+        <block wx:for="{{quickList}}" wx:key="*this">
+          <view class="quick-item" data-text="{{item}}" bindtap="useQuickQuestion">
+            {{item}}
+          </view>
+        </block>
+      </view>
+    </scroll-view>
+  </view>
+
+  <scroll-view scroll-y="true" class="chat-list" scroll-into-view="{{toView}}">
+    <block wx:for="{{messages}}" wx:key="index">
+      <view id="msg-{{index}}" class="msg-row {{item.role === '用户' ? 'user-row' : 'ai-row'}}">
+        <view class="msg-bubble {{item.role === '用户' ? 'user-bubble' : 'ai-bubble'}}">
+          <view class="msg-meta">
+            <text class="msg-role">{{item.role}}</text>
+            <text wx:if="{{item.intentLabel}}" class="intent-pill">{{item.intentLabel}}</text>
+            <text wx:if="{{item.mode}}" class="mode-pill">{{item.mode === 'self_trained' ? '自训练模型' : item.mode === 'self_trained_cloud' ? '自训练+DeepSeek增强' : item.mode === 'cloud_deepseek' ? 'DeepSeek增强' : item.mode === 'self_trained_fallback' ? '自训练兜底' : item.mode === 'error' ? '接口错误' : '自训练智能体'}}</text>
+          </view>
+          <view wx:if="{{item.provider}}" class="provider-line">{{item.provider}} {{item.model ? '· ' + item.model : ''}}</view>
+          <view wx:if="{{item.routeReason}}" class="provider-line">路由原因：{{item.routeReason}}{{item.confidence ? ' · 自训练置信度 ' + item.confidence : ''}}</view>
+          <view class="msg-text">{{item.content}}</view>
+
+          <view wx:if="{{item.sources && item.sources.length > 0}}" class="source-box">
+            <view class="source-title">依据来源</view>
+            <block wx:for="{{item.sources}}" wx:key="title" wx:for-item="source">
+              <view class="source-item" data-url="{{source.url}}" data-type="{{source.type}}" bindtap="openSource">
+                <view class="source-main">
+                  <view class="source-name">{{source.title}}</view>
+                  <view class="source-sub">{{source.subtitle}}</view>
+                </view>
+                <view class="source-action">{{source.url ? '打开' : '查看'}}</view>
+              </view>
+            </block>
+          </view>
+
+          <view wx:if="{{item.suggestions && item.suggestions.length > 0}}" class="suggest-box">
+            <block wx:for="{{item.suggestions}}" wx:key="*this" wx:for-item="suggestion">
+              <view class="suggest-chip" data-text="{{suggestion}}" bindtap="useSuggestion">
+                {{suggestion}}
+              </view>
+            </block>
+          </view>
+        </view>
+      </view>
+    </block>
+
+    <view wx:if="{{loading}}" class="msg-row ai-row">
+      <view class="msg-bubble ai-bubble">
+        <view class="msg-meta">
+          <text class="msg-role">竞赛智能体</text>
+          <text class="mode-pill">检索中</text>
+        </view>
+        <view class="msg-text">正在读取竞赛库、招募信息和导师库...</view>
+      </view>
+    </view>
+  </scroll-view>
+
+  <view wx:if="{{messages.length > 1}}" class="floating-clear" bindtap="clearChat">清空</view>
+
+  <view class="input-bar">
+    <input
+      class="input"
+      placeholder="输入问题，例如：我大二计算机适合参加什么竞赛"
+      value="{{question}}"
+      bindinput="onInput"
+      confirm-type="send"
+      bindconfirm="sendQuestion"
+    />
+    <button class="send-btn" bindtap="sendQuestion" loading="{{loading}}">发送</button>
+  </view>
+</view>
+

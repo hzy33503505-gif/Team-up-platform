@@ -1,0 +1,45 @@
+<view class="list-page {{themeClass}}">
+  <view wx:if="{{reminderList.length > 0}}" class="reminder-panel">
+    <view class="reminder-head">
+      <view>
+        <view class="reminder-title">报名提醒</view>
+        <view class="reminder-subtitle">只提醒已加入“我的竞赛”的项目</view>
+      </view>
+      <view class="reminder-count">{{reminderList.length}}</view>
+    </view>
+    <block wx:for="{{reminderList}}" wx:key="id">
+      <view class="reminder-row" bindtap="goContestDetail" data-id="{{item.id}}">
+        <view class="reminder-dot {{item.deadlineLevel}}"></view>
+        <view class="reminder-main">
+          <view class="reminder-name">{{item.name}}</view>
+          <view class="reminder-time">{{item.deadlineText}} · {{item.deadline}}</view>
+        </view>
+      </view>
+    </block>
+  </view>
+
+  <block wx:if="{{myContests.length > 0}}">
+    <block wx:for="{{myContests}}" wx:key="id">
+      <view class="menu-card">
+        <view class="menu-main" bindtap="goContestDetail" data-id="{{item.id}}">
+          <view class="menu-title">{{item.name}}</view>
+          <view class="menu-desc">截止时间：{{item.deadlineText}}</view>
+          <view class="menu-desc">方向：{{item.tag || item.category || '综合'}}</view>
+          <view class="reminder-status {{item.deadlineLevel}}">{{item.reminderStatus}}</view>
+        </view>
+        <view class="contest-actions">
+          <button size="mini" class="remind-btn {{item.reminderEnabled ? 'enabled' : ''}}" data-id="{{item.id}}" catchtap="toggleReminder">
+            {{item.reminderEnabled ? '关闭提醒' : '开启提醒'}}
+          </button>
+          <button size="mini" class="delete-btn" data-id="{{item.id}}" catchtap="removeContest">删除</button>
+        </view>
+      </view>
+    </block>
+  </block>
+  <view wx:else class="empty-card ui-empty">
+    <view class="ui-empty-title">还没有加入竞赛</view>
+    <view class="ui-empty-desc">从竞赛详情页加入“我的竞赛”后，这里会显示截止提醒和管理入口。</view>
+    <navigator class="ui-empty-action" open-type="switchTab" url="/pages/contest/contest" aria-label="去竞赛中心添加竞赛">去竞赛中心</navigator>
+  </view>
+</view>
+

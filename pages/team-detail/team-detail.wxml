@@ -1,0 +1,36 @@
+<view class="team-page {{themeClass}}">
+  <view class="hero-card">
+    <view class="hero-title">{{detail.title || '队伍信息'}}</view>
+    <view class="hero-subtitle">{{detail.contest_name || '未填写目标竞赛'}} · {{detail.status || '招募中'}}</view>
+    <view class="hero-desc">{{detail.description}}</view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">发布者</view>
+    <view class="info-text">{{detail.publisher_profile.name || '匿名'}} · {{detail.publisher_profile.grade || '未填写年级'}}</view>
+    <view class="info-text">{{detail.publisher_profile.campus || '未填写校区'}} / {{detail.publisher_profile.college || '未填写学院'}} / {{detail.publisher_profile.major || '未填写专业'}}</view>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">岗位需求</view>
+    <block wx:for="{{roles}}" wx:key="id" wx:for-item="role">
+      <view class="role-card">
+        <view class="role-head">
+          <view>
+            <view class="role-title">{{role.name}}</view>
+            <view class="role-subtitle">{{role.direction}} · {{role.skillsText}}</view>
+          </view>
+          <view class="role-status {{role.remaining == 0 ? 'done' : ''}}">{{role.statusText}}</view>
+        </view>
+      </view>
+    </block>
+  </view>
+
+  <view class="content-card">
+    <view class="section-title">方向标签</view>
+    <view class="info-text">{{detail.tags_text || '未填写方向标签'}}</view>
+  </view>
+
+  <button class="primary-btn" bindtap="goMatch">去匹配中心申请</button>
+</view>
+

@@ -1,0 +1,251 @@
+.list-page {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 50% 12%, var(--color-surface-glow), transparent 36%),
+    linear-gradient(
+      180deg,
+      var(--color-bg-soft) 0%,
+      var(--color-bg) 42%,
+      var(--color-accent-warm) 100%
+    );
+  padding: 24rpx;
+  box-sizing: border-box;
+}
+
+.reminder-panel {
+  background: var(--color-accent-warm);
+  border: 1rpx solid var(--color-border);
+  border-radius: 22rpx;
+  padding: 22rpx;
+  margin-bottom: 18rpx;
+}
+
+.reminder-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14rpx;
+}
+
+.reminder-title {
+  font-size: 29rpx;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.reminder-subtitle {
+  margin-top: 4rpx;
+  font-size: 22rpx;
+  color: var(--color-text);
+}
+
+.reminder-count {
+  min-width: 48rpx;
+  height: 48rpx;
+  line-height: 48rpx;
+  border-radius: 50%;
+  background: var(--color-surface-soft);
+  color: var(--color-text-body);
+  text-align: center;
+  font-size: 24rpx;
+  font-weight: 700;
+}
+
+.reminder-row {
+  display: flex;
+  align-items: center;
+  padding: 14rpx 0;
+  border-top: 1rpx solid var(--color-border);
+}
+
+.reminder-dot {
+  width: 16rpx;
+  height: 16rpx;
+  border-radius: 50%;
+  background: var(--color-primary);
+  margin-right: 14rpx;
+}
+
+.reminder-dot.urgent {
+  background: var(--color-surface-soft);
+}
+
+.reminder-dot.warning {
+  background: var(--color-surface-soft);
+}
+
+.reminder-main {
+  flex: 1;
+  min-width: 0;
+}
+
+.reminder-name {
+  font-size: 25rpx;
+  font-weight: 700;
+  color: var(--color-text);
+  line-height: 1.45;
+}
+
+.reminder-time {
+  margin-top: 4rpx;
+  font-size: 23rpx;
+  color: var(--color-text);
+}
+
+.menu-card {
+  background: var(--color-surface);
+  border-radius: 22rpx;
+  padding: 24rpx;
+  margin-bottom: 18rpx;
+  box-shadow: 0 6rpx 18rpx var(--color-shadow);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menu-main {
+  flex: 1;
+  min-width: 0;
+  margin-right: 20rpx;
+}
+
+.menu-title {
+  font-size: 30rpx;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 10rpx;
+}
+
+.menu-desc {
+  font-size: 24rpx;
+  color: var(--color-text-muted);
+  line-height: 1.7;
+}
+
+.reminder-status {
+  margin-top: 10rpx;
+  display: inline-block;
+  padding: 6rpx 12rpx;
+  border-radius: 999rpx;
+  background: var(--color-primary);
+  color: var(--color-primary-text);
+  font-size: 22rpx;
+  line-height: 1.4;
+}
+
+.reminder-status.urgent {
+  background: var(--color-surface-soft);
+  color: var(--color-text);
+}
+
+.reminder-status.warning {
+  background: var(--color-surface);
+  color: var(--color-text);
+}
+
+.reminder-status.ended,
+.reminder-status.muted {
+  background: var(--color-surface-soft);
+  color: var(--color-text-muted);
+}
+
+.contest-actions {
+  width: 170rpx;
+}
+
+.delete-btn,
+.remind-btn {
+  border-radius: 12rpx;
+  width: 100%;
+  font-size: 22rpx;
+}
+
+.delete-btn {
+  background: var(--color-surface-soft);
+  color: var(--color-text);
+  margin-top: 10rpx;
+}
+
+.remind-btn {
+  background: var(--color-primary-soft);
+  color: var(--color-text);
+}
+
+.remind-btn.enabled {
+  background: var(--color-primary-soft);
+  color: var(--color-text);
+}
+
+.empty-card {
+  background: var(--color-accent-warm);
+  border-radius: 22rpx;
+  padding: 28rpx 24rpx;
+  color: var(--color-text);
+  font-size: 24rpx;
+  text-align: center;
+  box-shadow: 0 6rpx 18rpx var(--color-shadow);
+}
+
+/* sticky-rice ice-cream premium UI */
+.list-page {
+  background:
+    radial-gradient(circle at 50% 12%, var(--color-surface-glow), transparent 36%),
+    linear-gradient(
+      180deg,
+      var(--color-bg-soft) 0%,
+      var(--color-bg) 42%,
+      var(--color-accent-warm) 100%
+    );
+  color: var(--color-text);
+}
+
+.reminder-panel,
+.menu-card,
+.empty-card {
+  background: var(--color-accent-warm);
+  border: 1rpx solid var(--color-border);
+  border-radius: 26rpx;
+  box-shadow: 0 18rpx 44rpx var(--color-shadow);
+}
+
+.reminder-title,
+.menu-title,
+.reminder-name {
+  color: var(--color-text);
+}
+
+.reminder-subtitle,
+.menu-desc,
+.reminder-time,
+.empty-card {
+  color: var(--color-text-muted);
+}
+
+.empty-card .ui-empty-action {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu-card,
+.reminder-row {
+  transition: transform 160ms cubic-bezier(0.16, 1, 0.3, 1), opacity 160ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.menu-card:active,
+.reminder-row:active {
+  transform: translateY(6rpx) scale(0.99);
+}
+
+.reminder-status,
+.remind-btn {
+  background: var(--color-primary-soft);
+  color: var(--color-text);
+  border: 1rpx solid var(--color-primary-soft-muted);
+}
+
+.delete-btn {
+  background: var(--color-border-subtle);
+  color: var(--color-text);
+  border: 1rpx solid var(--color-border-subtle);
+}
+

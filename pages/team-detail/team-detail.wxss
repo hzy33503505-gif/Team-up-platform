@@ -1,0 +1,156 @@
+.team-page {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 50% 12%, var(--color-surface-glow), transparent 36%),
+    linear-gradient(
+      180deg,
+      var(--color-bg-soft) 0%,
+      var(--color-bg) 42%,
+      var(--color-accent-warm) 100%
+    );
+  padding: 24rpx;
+  box-sizing: border-box;
+}
+
+.hero-card,
+.content-card {
+  background: var(--color-surface);
+  border-radius: 18rpx;
+  padding: 24rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 6rpx 18rpx var(--color-shadow);
+}
+
+.hero-card {
+  background: linear-gradient(135deg, var(--color-primary-soft), var(--color-primary));
+  color: var(--color-text-body);
+}
+
+.hero-title {
+  font-size: 36rpx;
+  line-height: 1.35;
+  font-weight: 700;
+  margin-bottom: 12rpx;
+}
+
+.hero-subtitle,
+.hero-desc {
+  font-size: 24rpx;
+  line-height: 1.65;
+  opacity: 0.94;
+}
+
+.section-title {
+  font-size: 30rpx;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 14rpx;
+}
+
+.info-text {
+  font-size: 25rpx;
+  color: var(--color-text-muted);
+  line-height: 1.7;
+}
+
+.role-card {
+  border: 1rpx solid var(--color-border);
+  border-radius: 12rpx;
+  padding: 16rpx;
+  margin-top: 14rpx;
+}
+
+.role-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16rpx;
+}
+
+.role-title {
+  font-size: 27rpx;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 6rpx;
+}
+
+.role-subtitle {
+  font-size: 23rpx;
+  color: var(--color-text-muted);
+  line-height: 1.55;
+}
+
+.role-status {
+  flex: 0 0 auto;
+  border-radius: 999rpx;
+  padding: 8rpx 16rpx;
+  background: var(--color-primary);
+  color: var(--color-primary-text);
+  font-size: 22rpx;
+  font-weight: 700;
+}
+
+.role-status.done {
+  background: var(--color-surface-soft);
+  color: var(--color-text-muted);
+}
+
+.primary-btn {
+  width: 100%;
+  border-radius: 12rpx;
+  background: var(--color-primary);
+  color: var(--color-primary-text);
+}
+
+/* sticky-rice ice-cream premium UI */
+.team-page {
+  background:
+    radial-gradient(circle at 50% 12%, var(--color-surface-glow), transparent 36%),
+    linear-gradient(
+      180deg,
+      var(--color-bg-soft) 0%,
+      var(--color-bg) 42%,
+      var(--color-accent-warm) 100%
+    );
+  color: var(--color-text);
+}
+
+.hero-card,
+.content-card,
+.role-card {
+  background: var(--color-surface);
+  border: 1rpx solid var(--color-border);
+  border-radius: 26rpx;
+  box-shadow: 0 18rpx 44rpx var(--color-shadow);
+}
+
+.hero-card {
+  animation: float-card 4.8s ease-in-out infinite;
+}
+
+.hero-title,
+.section-title,
+.role-title {
+  color: var(--color-text);
+}
+
+.hero-subtitle,
+.hero-desc,
+.info-text,
+.role-subtitle {
+  color: var(--color-text-muted);
+}
+
+.role-status {
+  background: var(--color-primary-soft-muted);
+  color: var(--color-text);
+  border: 1rpx solid var(--color-primary-soft-muted);
+}
+
+.primary-btn {
+  background: var(--color-primary);
+  color: var(--color-primary-text);
+  border-radius: 999rpx;
+  font-weight: 800;
+}
+

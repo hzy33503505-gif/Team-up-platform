@@ -1,0 +1,68 @@
+<view class="home-page {{themeClass}}">
+  <view class="top-band float-card">
+    <view class="top-copy">
+      <view class="eyebrow">TODAY ACTION</view>
+      <view class="page-title">{{title}}</view>
+      <view class="page-subtitle">{{subtitle}}</view>
+      <button class="hero-action primary-btn" aria-label="查看今日可报名竞赛" bindtap="goContest">查看今日可报名竞赛</button>
+    </view>
+    <button class="refresh-btn" aria-label="刷新首页数据" size="mini" loading="{{loading}}" bindtap="refreshDashboard">刷新</button>
+  </view>
+
+  <view class="section-row">
+    <view class="section-title">智能推荐</view>
+    <view class="section-link" bindtap="goContest">竞赛中心</view>
+  </view>
+  <view class="recommend-grid">
+    <block wx:for="{{recommendations}}" wx:key="title">
+      <view class="recommend-card pressable" bindtap="openRecommendation" data-action="{{item.action}}">
+        <view class="recommend-type">{{item.type}}</view>
+        <view class="recommend-title">{{item.title}}</view>
+        <view class="recommend-desc">{{item.desc}}</view>
+        <view class="recommend-btn">{{item.buttonText}}</view>
+      </view>
+    </block>
+  </view>
+
+  <view class="section-row">
+    <view class="section-title">我的竞赛概览</view>
+    <view class="section-link">{{updatedAt ? '更新 ' + updatedAt : ''}}</view>
+  </view>
+  <view class="stats-grid">
+    <block wx:for="{{stats}}" wx:key="label">
+      <view class="stat-card pressable">
+        <view class="stat-value">{{item.value}}</view>
+        <view class="stat-label">{{item.label}}</view>
+      </view>
+    </block>
+  </view>
+
+  <view class="section-row">
+    <view class="section-title">AI 今日建议</view>
+  </view>
+  <view class="tip-card">
+    {{aiTip}}
+  </view>
+
+  <view class="section-row">
+    <view class="section-title">近期节点时间线</view>
+  </view>
+  <view wx:if="{{timeline.length == 0}}" class="empty-card ui-empty">
+    <view class="ui-empty-title">近期没有紧急节点</view>
+    <view class="ui-empty-desc">当前 15 天内暂无需要重点关注的截止事项，可以先去竞赛中心发现新的机会。</view>
+    <button class="ui-empty-action" aria-label="前往竞赛中心" bindtap="goContest">去竞赛中心</button>
+  </view>
+  <block wx:for="{{timeline}}" wx:key="id">
+    <view class="timeline-card pressable" data-contestid="{{item.contest_id}}" bindtap="openTimeline">
+      <view class="timeline-dot"></view>
+      <view class="timeline-body">
+        <view class="timeline-head">
+          <view class="timeline-title">{{item.title}}</view>
+          <view class="timeline-time">{{item.time}}</view>
+        </view>
+        <view class="timeline-desc">{{item.desc}}</view>
+      </view>
+    </view>
+  </block>
+</view>
+

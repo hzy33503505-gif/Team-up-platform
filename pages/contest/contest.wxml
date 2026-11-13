@@ -1,0 +1,183 @@
+<view class="contest-page {{themeClass}}">
+  <view class="hero-card">
+    <view class="hero-title">竞赛中心</view>
+    <view class="hero-subtitle">自动聚合高校与竞赛官网信息</view>
+    <view class="hero-desc">
+      整理报名时间、地点、报名条件、材料清单、校内加分规则和官网链接，帮助学生快速筛选可参加的竞赛。
+    </view>
+  </view>
+
+  <view wx:if="{{recentList.length || hotList.length}}" class="insight-board">
+    <view wx:if="{{recentList.length}}" class="insight-section">
+      <view class="insight-head">
+        <view>
+          <view class="insight-title">近期比赛</view>
+          <view class="insight-subtitle">按报名截止与赛程状态实时更新</view>
+        </view>
+      </view>
+      <scroll-view scroll-x class="mini-scroll" enhanced show-scrollbar="{{false}}">
+        <view class="mini-list">
+          <block wx:for="{{recentList}}" wx:key="id">
+            <view class="mini-card" bindtap="goDetail" data-id="{{item.id}}">
+              <view class="mini-title">{{item.name}}</view>
+              <view class="mini-row">
+                <text class="mini-tag">{{item.category}}</text>
+                <text wx:if="{{item.deadline}}" class="mini-date">{{item.deadline}}</text>
+                <text wx:else class="mini-date muted">{{item.status}}</text>
+              </view>
+              <view wx:if="{{item.has_conditions}}" class="mini-desc">{{item.conditions}}</view>
+            </view>
+          </block>
+        </view>
+      </scroll-view>
+    </view>
+
+    <view wx:if="{{hotList.length}}" class="insight-section">
+      <view class="insight-head">
+        <view>
+          <view class="insight-title">热门比赛</view>
+          <view class="insight-subtitle">根据所有用户的全站总点击率排序</view>
+        </view>
+      </view>
+      <scroll-view scroll-x class="mini-scroll" enhanced show-scrollbar="{{false}}">
+        <view class="mini-list">
+          <block wx:for="{{hotList}}" wx:key="id">
+            <view class="mini-card hot" bindtap="goDetail" data-id="{{item.id}}">
+              <view class="mini-title">{{item.name}}</view>
+              <view class="mini-row">
+                <text class="mini-tag">{{item.category}}</text>
+                <text class="mini-date">{{item.hotText}}</text>
+              </view>
+              <view wx:if="{{item.bonus_summary}}" class="mini-desc">{{item.bonus_summary}}</view>
+            </view>
+          </block>
+        </view>
+      </scroll-view>
+    </view>
+  </view>
+
+  <view class="search-panel">
+    <view class="search-row">
+      <input
+        class="search-input"
+        value="{{keyword}}"
+        placeholder="搜索竞赛名称、方向、关键词"
+        placeholder-style="color:{{isDarkTheme ? '#9BA8AB' : 'rgba(17, 17, 17, 0.62)'}}"
+        confirm-type="search"
+        bindinput="onSearchInput"
+        bindconfirm="searchContest"
+      />
+      <button class="search-btn" aria-label="搜索竞赛" size="mini" bindtap="searchContest">搜索</button>
+    </view>
+    <view class="tool-row">
+      <text class="update-text">数据源：竞赛官网 / 高校通知</text>
+      <button class="refresh-btn" aria-label="刷新竞赛数据" size="mini" bindtap="refreshData" loading="{{loading}}">
+        刷新
+      </button>
+    </view>
+    <view wx:if="{{lastUpdated}}" class="update-time">本次加载：{{lastUpdated}}</view>
+  </view>
+
+  <view class="filter-bar">
+    <block wx:for="{{filterList}}" wx:key="index">
+      <view
+        class="filter-item {{activeIndex==index?'active':''}}"
+        bindtap="changeFilter"
+        data-index="{{index}}"
+      >
+        {{item}}
+      </view>
+    </block>
+  </view>
+
+  <view wx:if="{{contestTotal || contestList.length}}" class="list-summary">
+    共 {{contestTotal}} 项 · 第 {{contestPage}} / {{contestTotalPages || 1}} 页 · 本页 {{contestList.length}} 项
+  </view>
+
+  <view wx:if="{{loading && contestList.length === 0}}" class="empty-state loading-state">
+    <view class="ui-skeleton"></view>
+    <view class="state-title">正在刷新竞赛数据</view>
+    <view class="state-desc">正在同步竞赛官网和高校通知，请稍候。</view>
+  </view>
+
+  <view wx:elif="{{!loading && contestList.length === 0}}" class="empty-state ui-empty">
+    <view class="ui-empty-title">没有找到匹配竞赛</view>
+    <view class="ui-empty-desc">可以换一个关键词，或刷新后重新同步最新竞赛数据。</view>
+    <button class="ui-empty-action" aria-label="刷新竞赛数据" bindtap="refreshData">刷新数据</button>
+  </view>
+
+  <block wx:for="{{contestList}}" wx:key="id">
+    <view class="content-card">
+      <view class="card-top">
+        <view class="card-main" bindtap="goDetail" data-id="{{item.id}}">
+          <view class="card-title">{{item.name}}</view>
+          <view class="source-line">{{item.source_name}}</view>
+        </view>
+        <view class="status-tag {{item.status == '报名中' ? 'open' : ''}}">{{item.status}}</view>
+      </view>
+
+      <view class="meta-grid">
+        <view class="meta-item">
+          <text class="meta-label">分类</text>
+          <text class="meta-value">{{item.category}}</text>
+        </view>
+        <view wx:if="{{item.has_deadline}}" class="meta-item">
+          <text class="meta-label">报名截止</text>
+          <text class="meta-value strong">{{item.deadline}}</text>
+        </view>
+        <view wx:if="{{item.has_location}}" class="meta-item wide">
+          <text class="meta-label">地点</text>
+          <text class="meta-value">{{item.location}}</text>
+        </view>
+      </view>
+
+      <view class="desc">{{item.desc}}</view>
+
+      <view wx:if="{{item.is_hit_recognized}}" class="bonus-strip">
+        <text class="bonus-pill">哈工大认定</text>
+        <text class="bonus-text">{{item.bonus_summary}}</text>
+      </view>
+
+      <view class="tag-wrap">
+        <block wx:for="{{item.keywords}}" wx:key="*this">
+          <text class="tag">#{{item}}</text>
+        </block>
+      </view>
+
+      <view wx:if="{{item.has_conditions}}" class="section-sub">{{item.condition_label || '报名条件'}}</view>
+      <view wx:if="{{item.has_conditions}}" class="info-text">{{item.conditions}}</view>
+
+      <view class="action-row">
+        <button
+          class="secondary-btn"
+          size="mini"
+          data-id="{{item.id}}"
+          data-link="{{item.official_link}}"
+          data-notice="{{item.latest_notice_link}}"
+          bindtap="openOfficial"
+        >
+          竞赛官网
+        </button>
+        <button
+          class="primary-btn"
+          size="mini"
+          data-id="{{item.id}}"
+          bindtap="goDetail"
+        >
+          查看详情
+        </button>
+      </view>
+    </view>
+  </block>
+
+  <view wx:if="{{contestTotalPages > 1}}" class="contest-page-row">
+    <button class="pager-btn" size="mini" bindtap="prevContestPage" disabled="{{contestPage <= 1}}">
+      上一页
+    </button>
+    <text class="pager-text">第 {{contestPage}} / {{contestTotalPages}} 页</text>
+    <button class="pager-btn" size="mini" bindtap="nextContestPage" disabled="{{contestPage >= contestTotalPages}}">
+      下一页
+    </button>
+  </view>
+</view>
+

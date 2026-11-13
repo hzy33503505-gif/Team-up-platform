@@ -1,0 +1,18 @@
+<view class="teams-page {{themeClass}}">
+  <block wx:if="{{teams.length > 0}}">
+    <block wx:for="{{teams}}" wx:key="id" wx:for-item="team">
+      <view class="team-card" bindtap="openTeam" data-id="{{team.id}}">
+        <view class="team-title">{{team.title}}</view>
+        <view class="team-subtitle">{{team.contest_name || '未填写目标竞赛'}} · {{team.status}}</view>
+        <view class="team-desc">发布者：{{team.publisher_profile.name}} / {{team.publisherContactText}}</view>
+        <view class="team-desc">{{team.rolesText}}</view>
+        <view class="team-arrow">查看队伍信息 ›</view>
+      </view>
+    </block>
+  </block>
+  <view wx:else class="empty-card">
+    <view>暂无已匹配队伍</view>
+    <button class="primary-btn" size="mini" bindtap="goMatch">去匹配中心</button>
+  </view>
+</view>
+
