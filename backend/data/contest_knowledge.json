@@ -1,0 +1,3836 @@
+{
+  "updated_at": "2026-05-19 23:17:46",
+  "contest_count": 75,
+  "sources_count": 0,
+  "items": [
+    {
+      "id": "contest-76aa8ac78fd2",
+      "name": "【英语词汇大赛，5月22日截止】2026年第四届“外文奖”大学生英",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【英语词汇大赛，5月22日截止】2026年第四届“外文奖”大学生英 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-c603fdcce0",
+      "name": "中国国际大学生创新大赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "东北大学创新创业学院竞赛通知"
+      ],
+      "summary": "中国国际大学生创新大赛 当前含金量评估为 88 分，A 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    {
+      "id": "hit-f83e854e53",
+      "name": "全国三维数字化创新设计大赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国三维数字化创新设计大赛官网"
+      ],
+      "summary": "全国三维数字化创新设计大赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    {
+      "id": "contest-9a45eb60d4ca",
+      "name": "【榜单竞赛】2026年第八届大学生语言文字能力大赛报名通知",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【榜单竞赛】2026年第八届大学生语言文字能力大赛报名通知 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "contest-4a3d704b7fc6",
+      "name": "【普通话】2026年全国大学生普通话能力竞赛报名通知！",
+      "score": 73,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【普通话】2026年全国大学生普通话能力竞赛报名通知！ 当前含金量评估为 73 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-9883289d67",
+      "name": "全国大学生英语竞赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "全国大学生英语竞赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    {
+      "id": "contest-9fbb6e32848a",
+      "name": "【写作大赛，5月29日截止】2026年第四届“外文奖”大学生",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【写作大赛，5月29日截止】2026年第四届“外文奖”大学生 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "contest-1a32beefd6bb",
+      "name": "2026年第五届大学生英语翻译能力竞赛报名通知",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "2026年第五届大学生英语翻译能力竞赛报名通知 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "contest-a8f9a7571da5",
+      "name": "【榜单赛事】2026年第四届全国大学生教育教学能力大赛报名通知！",
+      "score": 73,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【榜单赛事】2026年第四届全国大学生教育教学能力大赛报名通知！ 当前含金量评估为 73 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-24881c40ea",
+      "name": "全国大学生数学建模竞赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生数学建模竞赛通知页"
+      ],
+      "summary": "全国大学生数学建模竞赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    {
+      "id": "hit-05bff799e7",
+      "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "外研社国才杯官网"
+      ],
+      "summary": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    {
+      "id": "hit-a8c859a92c",
+      "name": "中国大学生计算机设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国大学生计算机设计大赛官网"
+      ],
+      "summary": "中国大学生计算机设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "contest-5ce9c0b5778e",
+      "name": "蓝桥杯大赛 — 全国大学生TMT行业赛事",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "蓝桥杯官网"
+      ],
+      "summary": "蓝桥杯大赛 — 全国大学生TMT行业赛事 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-88f290ebb8",
+      "name": "“挑战杯”中国大学生创业计划大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "挑战杯官网"
+      ],
+      "summary": "“挑战杯”中国大学生创业计划大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-cf68383a60",
+      "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "挑战杯官网"
+      ],
+      "summary": "“挑战杯”全国大学生课外学术科技作品竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-f7b03d4786",
+      "name": "中国大学生服务外包创新创业大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国大学生服务外包创新创业大赛官网"
+      ],
+      "summary": "中国大学生服务外包创新创业大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-f953612921",
+      "name": "全国大学生机器人大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生机器人大赛官网"
+      ],
+      "summary": "全国大学生机器人大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "contest-e9bd1515d835",
+      "name": "中国大学生竞赛网",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国大学生竞赛网"
+      ],
+      "summary": "中国大学生竞赛网 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "contest-bec68ba86ab9",
+      "name": "关于举办第六届全国高校教师教学创新大赛全国赛的通知",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国高等教育学会竞赛榜单"
+      ],
+      "summary": "关于举办第六届全国高校教师教学创新大赛全国赛的通知 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-d95088f86a",
+      "name": "中国高校计算机大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国高校计算机大赛官网"
+      ],
+      "summary": "中国高校计算机大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-74878a328e",
+      "name": "全国大学生信息安全竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生信息安全竞赛官网"
+      ],
+      "summary": "全国大学生信息安全竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "contest-fe36c59656cc",
+      "name": "中国大学生程序设计竞赛(CCPC)",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国大学生程序设计竞赛 CCPC"
+      ],
+      "summary": "中国大学生程序设计竞赛(CCPC) 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-25a328086a",
+      "name": "国际大学生程序设计竞赛（ICPC）",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "ICPC 区域赛官网"
+      ],
+      "summary": "国际大学生程序设计竞赛（ICPC） 当前含金量评估为 84 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-744655c1f5",
+      "name": "中国大学生工程实践与创新能力大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国大学生工程实践与创新能力大赛官网"
+      ],
+      "summary": "中国大学生工程实践与创新能力大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-eacdfd15d0",
+      "name": "全国大学生节能减排社会实践与科技竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生节能减排社会实践与科技竞赛官网"
+      ],
+      "summary": "全国大学生节能减排社会实践与科技竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-5d6d004127",
+      "name": "全国大学生智能汽车竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生智能汽车竞赛官网"
+      ],
+      "summary": "全国大学生智能汽车竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-482c8e0f0a",
+      "name": "全国大学生广告艺术大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生广告艺术大赛官网"
+      ],
+      "summary": "全国大学生广告艺术大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "contest-2b95c196933a",
+      "name": "关于2026春季学期本科生竞赛成果申报及成绩选择的通知 : 中国科学技术大学教务处",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国科学技术大学本科教学竞赛通知"
+      ],
+      "summary": "关于2026春季学期本科生竞赛成果申报及成绩选择的通知 : 中国科学技术大学教务处 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "contest-115a83eda656",
+      "name": "哈尔滨工业大学教务处竞赛通知",
+      "score": 49,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "哈尔滨工业大学教务处竞赛通知"
+      ],
+      "summary": "哈尔滨工业大学教务处竞赛通知 当前含金量评估为 49 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-8151af306e",
+      "name": "全国大学生物联网设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生物联网设计竞赛官网"
+      ],
+      "summary": "全国大学生物联网设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-bf6ad2d075",
+      "name": "全国大学生嵌入式芯片与系统设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生嵌入式芯片与系统设计竞赛官网"
+      ],
+      "summary": "全国大学生嵌入式芯片与系统设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-666b9f6f5b",
+      "name": "中国高校智能机器人创意大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国高校智能机器人创意大赛官网"
+      ],
+      "summary": "中国高校智能机器人创意大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-878aa9f99e",
+      "name": "“西门子杯”中国智能制造挑战赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "“西门子杯”中国智能制造挑战赛官网"
+      ],
+      "summary": "“西门子杯”中国智能制造挑战赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-d155dbac07",
+      "name": "全国大学生光电设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生光电设计竞赛官网"
+      ],
+      "summary": "全国大学生光电设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-12191adc6c",
+      "name": "全国大学生化工设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生化工设计竞赛官网"
+      ],
+      "summary": "全国大学生化工设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    {
+      "id": "hit-d363d82ae8",
+      "name": "全国周培源大学生力学竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国周培源大学生力学竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-2553e7b593",
+      "name": "全国大学生集成电路创新创业大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生集成电路创新创业大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-282cf69a73",
+      "name": "iCAN大学生创新创业大赛",
+      "score": 64,
+      "grade": "C",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "iCAN大学生创新创业大赛 当前含金量评估为 64 分，C 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-caa781a7b8",
+      "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "“大唐杯”全国大学生新一代信息通信技术大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-d8dafa8842",
+      "name": "全国大学生机械创新设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生机械创新设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-ece5402915",
+      "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生先进成图技术与产品信息建模创新大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-adb08a3a0f",
+      "name": "中国大学生机械工程创新创意大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国大学生机械工程创新创意大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-d3f9669939",
+      "name": "国际大学生智能农业装备创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "国际大学生智能农业装备创新大赛 当前含金量评估为 84 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-f26993f242",
+      "name": "中美青年创客大赛",
+      "score": 64,
+      "grade": "C",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中美青年创客大赛 当前含金量评估为 64 分，C 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-eec7e6acf7",
+      "name": "全国大学生金相技能大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生金相技能大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-fafcc6c1b5",
+      "name": "全国大学生电子设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生电子设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-a9ca299f89",
+      "name": "全国高校BIM毕业设计创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国高校BIM毕业设计创新大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-026526a859",
+      "name": "中国（国际）传感器创新创业大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国（国际）传感器创新创业大赛 当前含金量评估为 84 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-1619e5d1ca",
+      "name": "全国大学生化学实验创新设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生化学实验创新设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-098f36ec64",
+      "name": "中国大学生物理学术竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国大学生物理学术竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-f7ccde1c32",
+      "name": "全国大学生物理实验竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生物理实验竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-8b67d5e540",
+      "name": "全国大学生数学竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生数学竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-ad8e4bb2a7",
+      "name": "美国大学生数学建模竞赛",
+      "score": 64,
+      "grade": "C",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "美国大学生数学建模竞赛 当前含金量评估为 64 分，C 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-252f01d17d",
+      "name": "全国大学生统计建模大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生统计建模大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-9302dfe088",
+      "name": "全国大学生生命科学竞赛（CULSC）",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生生命科学竞赛（CULSC） 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-e79dbe31b5",
+      "name": "全国高等院校数智化企业经营沙盘大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国高等院校数智化企业经营沙盘大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-c6f6517de5",
+      "name": "全国大学生市场调查与分析大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生市场调查与分析大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-805ece0447",
+      "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生电子商务“创新、创意及创业”挑战赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-bfb07fe360",
+      "name": "全国大学生物流设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生物流设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-1057d017f3",
+      "name": "全国大学生结构设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生结构设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-8490a8bf10",
+      "name": "全国大学生建筑类竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生建筑类竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-40fdd21e27",
+      "name": "全国大学生混凝土材料设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生混凝土材料设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-8bb19d8a43",
+      "name": "全国大学生交通运输科技大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生交通运输科技大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-243c2cade9",
+      "name": "全国大学生软件创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生软件创新大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-c72732d701",
+      "name": "中国机器人及人工智能大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国机器人及人工智能大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-6216bc68ed",
+      "name": "全国大学生计算机系统能力大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生计算机系统能力大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-fb65034b83",
+      "name": "全球校园人工智能算法精英大赛",
+      "score": 72,
+      "grade": "B",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全球校园人工智能算法精英大赛 当前含金量评估为 72 分，B 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-ab70fe7870",
+      "name": "全国英语口译大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国英语口译大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-335ab0bfae",
+      "name": "“外研社·国才杯”全国大学生英语辩论赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "“外研社·国才杯”全国大学生英语辩论赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-d5443c1d1e",
+      "name": "“21世纪杯”全国英语演讲比赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "“21世纪杯”全国英语演讲比赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-b3939fffcc",
+      "name": "全国大学生职业规划大赛（学生赛道）",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生职业规划大赛（学生赛道） 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-422ff64950",
+      "name": "中国大学生方程式系列赛事",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国大学生方程式系列赛事 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-679c286852",
+      "name": "全国海洋航行器设计与制作大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国海洋航行器设计与制作大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "hit-aa2769c8bc",
+      "name": "全国航空航天模型锦标赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国航空航天模型锦标赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    {
+      "id": "contest-1f8519ce46b0",
+      "name": "关于2026年复旦大学暑期国际课程（FISS）的报名通知",
+      "score": 73,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "上海交通大学教务处竞赛通知"
+      ],
+      "summary": "关于2026年复旦大学暑期国际课程（FISS）的报名通知 当前含金量评估为 73 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    }
+  ],
+  "by_id": {
+    "contest-76aa8ac78fd2": {
+      "id": "contest-76aa8ac78fd2",
+      "name": "【英语词汇大赛，5月22日截止】2026年第四届“外文奖”大学生英",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【英语词汇大赛，5月22日截止】2026年第四届“外文奖”大学生英 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "hit-c603fdcce0": {
+      "id": "hit-c603fdcce0",
+      "name": "中国国际大学生创新大赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "东北大学创新创业学院竞赛通知"
+      ],
+      "summary": "中国国际大学生创新大赛 当前含金量评估为 88 分，A 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    "hit-f83e854e53": {
+      "id": "hit-f83e854e53",
+      "name": "全国三维数字化创新设计大赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国三维数字化创新设计大赛官网"
+      ],
+      "summary": "全国三维数字化创新设计大赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    "contest-9a45eb60d4ca": {
+      "id": "contest-9a45eb60d4ca",
+      "name": "【榜单竞赛】2026年第八届大学生语言文字能力大赛报名通知",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【榜单竞赛】2026年第八届大学生语言文字能力大赛报名通知 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "contest-4a3d704b7fc6": {
+      "id": "contest-4a3d704b7fc6",
+      "name": "【普通话】2026年全国大学生普通话能力竞赛报名通知！",
+      "score": 73,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【普通话】2026年全国大学生普通话能力竞赛报名通知！ 当前含金量评估为 73 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "hit-9883289d67": {
+      "id": "hit-9883289d67",
+      "name": "全国大学生英语竞赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "全国大学生英语竞赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    "contest-9fbb6e32848a": {
+      "id": "contest-9fbb6e32848a",
+      "name": "【写作大赛，5月29日截止】2026年第四届“外文奖”大学生",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【写作大赛，5月29日截止】2026年第四届“外文奖”大学生 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "contest-1a32beefd6bb": {
+      "id": "contest-1a32beefd6bb",
+      "name": "2026年第五届大学生英语翻译能力竞赛报名通知",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "2026年第五届大学生英语翻译能力竞赛报名通知 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "contest-a8f9a7571da5": {
+      "id": "contest-a8f9a7571da5",
+      "name": "【榜单赛事】2026年第四届全国大学生教育教学能力大赛报名通知！",
+      "score": 73,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【榜单赛事】2026年第四届全国大学生教育教学能力大赛报名通知！ 当前含金量评估为 73 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "hit-24881c40ea": {
+      "id": "hit-24881c40ea",
+      "name": "全国大学生数学建模竞赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生数学建模竞赛通知页"
+      ],
+      "summary": "全国大学生数学建模竞赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    "hit-05bff799e7": {
+      "id": "hit-05bff799e7",
+      "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "外研社国才杯官网"
+      ],
+      "summary": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    "hit-a8c859a92c": {
+      "id": "hit-a8c859a92c",
+      "name": "中国大学生计算机设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国大学生计算机设计大赛官网"
+      ],
+      "summary": "中国大学生计算机设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "contest-5ce9c0b5778e": {
+      "id": "contest-5ce9c0b5778e",
+      "name": "蓝桥杯大赛 — 全国大学生TMT行业赛事",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "蓝桥杯官网"
+      ],
+      "summary": "蓝桥杯大赛 — 全国大学生TMT行业赛事 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "hit-88f290ebb8": {
+      "id": "hit-88f290ebb8",
+      "name": "“挑战杯”中国大学生创业计划大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "挑战杯官网"
+      ],
+      "summary": "“挑战杯”中国大学生创业计划大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "hit-cf68383a60": {
+      "id": "hit-cf68383a60",
+      "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "挑战杯官网"
+      ],
+      "summary": "“挑战杯”全国大学生课外学术科技作品竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "hit-f7b03d4786": {
+      "id": "hit-f7b03d4786",
+      "name": "中国大学生服务外包创新创业大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国大学生服务外包创新创业大赛官网"
+      ],
+      "summary": "中国大学生服务外包创新创业大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "hit-f953612921": {
+      "id": "hit-f953612921",
+      "name": "全国大学生机器人大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生机器人大赛官网"
+      ],
+      "summary": "全国大学生机器人大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "contest-e9bd1515d835": {
+      "id": "contest-e9bd1515d835",
+      "name": "中国大学生竞赛网",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国大学生竞赛网"
+      ],
+      "summary": "中国大学生竞赛网 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "contest-bec68ba86ab9": {
+      "id": "contest-bec68ba86ab9",
+      "name": "关于举办第六届全国高校教师教学创新大赛全国赛的通知",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国高等教育学会竞赛榜单"
+      ],
+      "summary": "关于举办第六届全国高校教师教学创新大赛全国赛的通知 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "hit-d95088f86a": {
+      "id": "hit-d95088f86a",
+      "name": "中国高校计算机大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国高校计算机大赛官网"
+      ],
+      "summary": "中国高校计算机大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "hit-74878a328e": {
+      "id": "hit-74878a328e",
+      "name": "全国大学生信息安全竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生信息安全竞赛官网"
+      ],
+      "summary": "全国大学生信息安全竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "contest-fe36c59656cc": {
+      "id": "contest-fe36c59656cc",
+      "name": "中国大学生程序设计竞赛(CCPC)",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国大学生程序设计竞赛 CCPC"
+      ],
+      "summary": "中国大学生程序设计竞赛(CCPC) 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "hit-25a328086a": {
+      "id": "hit-25a328086a",
+      "name": "国际大学生程序设计竞赛（ICPC）",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "ICPC 区域赛官网"
+      ],
+      "summary": "国际大学生程序设计竞赛（ICPC） 当前含金量评估为 84 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "hit-744655c1f5": {
+      "id": "hit-744655c1f5",
+      "name": "中国大学生工程实践与创新能力大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国大学生工程实践与创新能力大赛官网"
+      ],
+      "summary": "中国大学生工程实践与创新能力大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "hit-eacdfd15d0": {
+      "id": "hit-eacdfd15d0",
+      "name": "全国大学生节能减排社会实践与科技竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生节能减排社会实践与科技竞赛官网"
+      ],
+      "summary": "全国大学生节能减排社会实践与科技竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "hit-5d6d004127": {
+      "id": "hit-5d6d004127",
+      "name": "全国大学生智能汽车竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生智能汽车竞赛官网"
+      ],
+      "summary": "全国大学生智能汽车竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "hit-482c8e0f0a": {
+      "id": "hit-482c8e0f0a",
+      "name": "全国大学生广告艺术大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生广告艺术大赛官网"
+      ],
+      "summary": "全国大学生广告艺术大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "contest-2b95c196933a": {
+      "id": "contest-2b95c196933a",
+      "name": "关于2026春季学期本科生竞赛成果申报及成绩选择的通知 : 中国科学技术大学教务处",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国科学技术大学本科教学竞赛通知"
+      ],
+      "summary": "关于2026春季学期本科生竞赛成果申报及成绩选择的通知 : 中国科学技术大学教务处 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "contest-115a83eda656": {
+      "id": "contest-115a83eda656",
+      "name": "哈尔滨工业大学教务处竞赛通知",
+      "score": 49,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "哈尔滨工业大学教务处竞赛通知"
+      ],
+      "summary": "哈尔滨工业大学教务处竞赛通知 当前含金量评估为 49 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "hit-8151af306e": {
+      "id": "hit-8151af306e",
+      "name": "全国大学生物联网设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生物联网设计竞赛官网"
+      ],
+      "summary": "全国大学生物联网设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-bf6ad2d075": {
+      "id": "hit-bf6ad2d075",
+      "name": "全国大学生嵌入式芯片与系统设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生嵌入式芯片与系统设计竞赛官网"
+      ],
+      "summary": "全国大学生嵌入式芯片与系统设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-666b9f6f5b": {
+      "id": "hit-666b9f6f5b",
+      "name": "中国高校智能机器人创意大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国高校智能机器人创意大赛官网"
+      ],
+      "summary": "中国高校智能机器人创意大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-878aa9f99e": {
+      "id": "hit-878aa9f99e",
+      "name": "“西门子杯”中国智能制造挑战赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "“西门子杯”中国智能制造挑战赛官网"
+      ],
+      "summary": "“西门子杯”中国智能制造挑战赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "hit-d155dbac07": {
+      "id": "hit-d155dbac07",
+      "name": "全国大学生光电设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生光电设计竞赛官网"
+      ],
+      "summary": "全国大学生光电设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-12191adc6c": {
+      "id": "hit-12191adc6c",
+      "name": "全国大学生化工设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生化工设计竞赛官网"
+      ],
+      "summary": "全国大学生化工设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "hit-d363d82ae8": {
+      "id": "hit-d363d82ae8",
+      "name": "全国周培源大学生力学竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国周培源大学生力学竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-2553e7b593": {
+      "id": "hit-2553e7b593",
+      "name": "全国大学生集成电路创新创业大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生集成电路创新创业大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-282cf69a73": {
+      "id": "hit-282cf69a73",
+      "name": "iCAN大学生创新创业大赛",
+      "score": 64,
+      "grade": "C",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "iCAN大学生创新创业大赛 当前含金量评估为 64 分，C 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-caa781a7b8": {
+      "id": "hit-caa781a7b8",
+      "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "“大唐杯”全国大学生新一代信息通信技术大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-d8dafa8842": {
+      "id": "hit-d8dafa8842",
+      "name": "全国大学生机械创新设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生机械创新设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-ece5402915": {
+      "id": "hit-ece5402915",
+      "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生先进成图技术与产品信息建模创新大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-adb08a3a0f": {
+      "id": "hit-adb08a3a0f",
+      "name": "中国大学生机械工程创新创意大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国大学生机械工程创新创意大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-d3f9669939": {
+      "id": "hit-d3f9669939",
+      "name": "国际大学生智能农业装备创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "国际大学生智能农业装备创新大赛 当前含金量评估为 84 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-f26993f242": {
+      "id": "hit-f26993f242",
+      "name": "中美青年创客大赛",
+      "score": 64,
+      "grade": "C",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中美青年创客大赛 当前含金量评估为 64 分，C 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-eec7e6acf7": {
+      "id": "hit-eec7e6acf7",
+      "name": "全国大学生金相技能大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生金相技能大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-fafcc6c1b5": {
+      "id": "hit-fafcc6c1b5",
+      "name": "全国大学生电子设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生电子设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-a9ca299f89": {
+      "id": "hit-a9ca299f89",
+      "name": "全国高校BIM毕业设计创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国高校BIM毕业设计创新大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-026526a859": {
+      "id": "hit-026526a859",
+      "name": "中国（国际）传感器创新创业大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国（国际）传感器创新创业大赛 当前含金量评估为 84 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-1619e5d1ca": {
+      "id": "hit-1619e5d1ca",
+      "name": "全国大学生化学实验创新设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生化学实验创新设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-098f36ec64": {
+      "id": "hit-098f36ec64",
+      "name": "中国大学生物理学术竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国大学生物理学术竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-f7ccde1c32": {
+      "id": "hit-f7ccde1c32",
+      "name": "全国大学生物理实验竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生物理实验竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-8b67d5e540": {
+      "id": "hit-8b67d5e540",
+      "name": "全国大学生数学竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生数学竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-ad8e4bb2a7": {
+      "id": "hit-ad8e4bb2a7",
+      "name": "美国大学生数学建模竞赛",
+      "score": 64,
+      "grade": "C",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "美国大学生数学建模竞赛 当前含金量评估为 64 分，C 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-252f01d17d": {
+      "id": "hit-252f01d17d",
+      "name": "全国大学生统计建模大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生统计建模大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-9302dfe088": {
+      "id": "hit-9302dfe088",
+      "name": "全国大学生生命科学竞赛（CULSC）",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生生命科学竞赛（CULSC） 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-e79dbe31b5": {
+      "id": "hit-e79dbe31b5",
+      "name": "全国高等院校数智化企业经营沙盘大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国高等院校数智化企业经营沙盘大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-c6f6517de5": {
+      "id": "hit-c6f6517de5",
+      "name": "全国大学生市场调查与分析大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生市场调查与分析大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-805ece0447": {
+      "id": "hit-805ece0447",
+      "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生电子商务“创新、创意及创业”挑战赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-bfb07fe360": {
+      "id": "hit-bfb07fe360",
+      "name": "全国大学生物流设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生物流设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-1057d017f3": {
+      "id": "hit-1057d017f3",
+      "name": "全国大学生结构设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生结构设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-8490a8bf10": {
+      "id": "hit-8490a8bf10",
+      "name": "全国大学生建筑类竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生建筑类竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-40fdd21e27": {
+      "id": "hit-40fdd21e27",
+      "name": "全国大学生混凝土材料设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生混凝土材料设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-8bb19d8a43": {
+      "id": "hit-8bb19d8a43",
+      "name": "全国大学生交通运输科技大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生交通运输科技大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-243c2cade9": {
+      "id": "hit-243c2cade9",
+      "name": "全国大学生软件创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生软件创新大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-c72732d701": {
+      "id": "hit-c72732d701",
+      "name": "中国机器人及人工智能大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国机器人及人工智能大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-6216bc68ed": {
+      "id": "hit-6216bc68ed",
+      "name": "全国大学生计算机系统能力大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生计算机系统能力大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-fb65034b83": {
+      "id": "hit-fb65034b83",
+      "name": "全球校园人工智能算法精英大赛",
+      "score": 72,
+      "grade": "B",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全球校园人工智能算法精英大赛 当前含金量评估为 72 分，B 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-ab70fe7870": {
+      "id": "hit-ab70fe7870",
+      "name": "全国英语口译大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国英语口译大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-335ab0bfae": {
+      "id": "hit-335ab0bfae",
+      "name": "“外研社·国才杯”全国大学生英语辩论赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "“外研社·国才杯”全国大学生英语辩论赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-d5443c1d1e": {
+      "id": "hit-d5443c1d1e",
+      "name": "“21世纪杯”全国英语演讲比赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "“21世纪杯”全国英语演讲比赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-b3939fffcc": {
+      "id": "hit-b3939fffcc",
+      "name": "全国大学生职业规划大赛（学生赛道）",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生职业规划大赛（学生赛道） 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-422ff64950": {
+      "id": "hit-422ff64950",
+      "name": "中国大学生方程式系列赛事",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国大学生方程式系列赛事 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-679c286852": {
+      "id": "hit-679c286852",
+      "name": "全国海洋航行器设计与制作大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国海洋航行器设计与制作大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "hit-aa2769c8bc": {
+      "id": "hit-aa2769c8bc",
+      "name": "全国航空航天模型锦标赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国航空航天模型锦标赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "contest-1f8519ce46b0": {
+      "id": "contest-1f8519ce46b0",
+      "name": "关于2026年复旦大学暑期国际课程（FISS）的报名通知",
+      "score": 73,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "上海交通大学教务处竞赛通知"
+      ],
+      "summary": "关于2026年复旦大学暑期国际课程（FISS）的报名通知 当前含金量评估为 73 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    }
+  },
+  "by_name": {
+    "【英语词汇大赛，5月22日截止】2026年第四届“外文奖”大学生英": {
+      "id": "contest-76aa8ac78fd2",
+      "name": "【英语词汇大赛，5月22日截止】2026年第四届“外文奖”大学生英",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【英语词汇大赛，5月22日截止】2026年第四届“外文奖”大学生英 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "中国国际大学生创新大赛": {
+      "id": "hit-c603fdcce0",
+      "name": "中国国际大学生创新大赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "东北大学创新创业学院竞赛通知"
+      ],
+      "summary": "中国国际大学生创新大赛 当前含金量评估为 88 分，A 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    "全国三维数字化创新设计大赛": {
+      "id": "hit-f83e854e53",
+      "name": "全国三维数字化创新设计大赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国三维数字化创新设计大赛官网"
+      ],
+      "summary": "全国三维数字化创新设计大赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    "【榜单竞赛】2026年第八届大学生语言文字能力大赛报名通知": {
+      "id": "contest-9a45eb60d4ca",
+      "name": "【榜单竞赛】2026年第八届大学生语言文字能力大赛报名通知",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【榜单竞赛】2026年第八届大学生语言文字能力大赛报名通知 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "【普通话】2026年全国大学生普通话能力竞赛报名通知！": {
+      "id": "contest-4a3d704b7fc6",
+      "name": "【普通话】2026年全国大学生普通话能力竞赛报名通知！",
+      "score": 73,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【普通话】2026年全国大学生普通话能力竞赛报名通知！ 当前含金量评估为 73 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "全国大学生英语竞赛": {
+      "id": "hit-9883289d67",
+      "name": "全国大学生英语竞赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "全国大学生英语竞赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    "【写作大赛，5月29日截止】2026年第四届“外文奖”大学生": {
+      "id": "contest-9fbb6e32848a",
+      "name": "【写作大赛，5月29日截止】2026年第四届“外文奖”大学生",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【写作大赛，5月29日截止】2026年第四届“外文奖”大学生 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "2026年第五届大学生英语翻译能力竞赛报名通知": {
+      "id": "contest-1a32beefd6bb",
+      "name": "2026年第五届大学生英语翻译能力竞赛报名通知",
+      "score": 53,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "2026年第五届大学生英语翻译能力竞赛报名通知 当前含金量评估为 53 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "【榜单赛事】2026年第四届全国大学生教育教学能力大赛报名通知！": {
+      "id": "contest-a8f9a7571da5",
+      "name": "【榜单赛事】2026年第四届全国大学生教育教学能力大赛报名通知！",
+      "score": 73,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "我爱竞赛网"
+      ],
+      "summary": "【榜单赛事】2026年第四届全国大学生教育教学能力大赛报名通知！ 当前含金量评估为 73 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    },
+    "全国大学生数学建模竞赛": {
+      "id": "hit-24881c40ea",
+      "name": "全国大学生数学建模竞赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生数学建模竞赛通知页"
+      ],
+      "summary": "全国大学生数学建模竞赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛": {
+      "id": "hit-05bff799e7",
+      "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛",
+      "score": 88,
+      "grade": "A",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "外研社国才杯官网"
+      ],
+      "summary": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛 当前含金量评估为 88 分，A 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 20
+      }
+    },
+    "中国大学生计算机设计大赛": {
+      "id": "hit-a8c859a92c",
+      "name": "中国大学生计算机设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国大学生计算机设计大赛官网"
+      ],
+      "summary": "中国大学生计算机设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "蓝桥杯大赛 — 全国大学生TMT行业赛事": {
+      "id": "contest-5ce9c0b5778e",
+      "name": "蓝桥杯大赛 — 全国大学生TMT行业赛事",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "蓝桥杯官网"
+      ],
+      "summary": "蓝桥杯大赛 — 全国大学生TMT行业赛事 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "“挑战杯”中国大学生创业计划大赛": {
+      "id": "hit-88f290ebb8",
+      "name": "“挑战杯”中国大学生创业计划大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "挑战杯官网"
+      ],
+      "summary": "“挑战杯”中国大学生创业计划大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "“挑战杯”全国大学生课外学术科技作品竞赛": {
+      "id": "hit-cf68383a60",
+      "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "挑战杯官网"
+      ],
+      "summary": "“挑战杯”全国大学生课外学术科技作品竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "中国大学生服务外包创新创业大赛": {
+      "id": "hit-f7b03d4786",
+      "name": "中国大学生服务外包创新创业大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国大学生服务外包创新创业大赛官网"
+      ],
+      "summary": "中国大学生服务外包创新创业大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "全国大学生机器人大赛": {
+      "id": "hit-f953612921",
+      "name": "全国大学生机器人大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生机器人大赛官网"
+      ],
+      "summary": "全国大学生机器人大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "中国大学生竞赛网": {
+      "id": "contest-e9bd1515d835",
+      "name": "中国大学生竞赛网",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国大学生竞赛网"
+      ],
+      "summary": "中国大学生竞赛网 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "关于举办第六届全国高校教师教学创新大赛全国赛的通知": {
+      "id": "contest-bec68ba86ab9",
+      "name": "关于举办第六届全国高校教师教学创新大赛全国赛的通知",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国高等教育学会竞赛榜单"
+      ],
+      "summary": "关于举办第六届全国高校教师教学创新大赛全国赛的通知 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "中国高校计算机大赛": {
+      "id": "hit-d95088f86a",
+      "name": "中国高校计算机大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国高校计算机大赛官网"
+      ],
+      "summary": "中国高校计算机大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "全国大学生信息安全竞赛": {
+      "id": "hit-74878a328e",
+      "name": "全国大学生信息安全竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生信息安全竞赛官网"
+      ],
+      "summary": "全国大学生信息安全竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "中国大学生程序设计竞赛(CCPC)": {
+      "id": "contest-fe36c59656cc",
+      "name": "中国大学生程序设计竞赛(CCPC)",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国大学生程序设计竞赛 CCPC"
+      ],
+      "summary": "中国大学生程序设计竞赛(CCPC) 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "国际大学生程序设计竞赛（ICPC）": {
+      "id": "hit-25a328086a",
+      "name": "国际大学生程序设计竞赛（ICPC）",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "ICPC 区域赛官网"
+      ],
+      "summary": "国际大学生程序设计竞赛（ICPC） 当前含金量评估为 84 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "中国大学生工程实践与创新能力大赛": {
+      "id": "hit-744655c1f5",
+      "name": "中国大学生工程实践与创新能力大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国大学生工程实践与创新能力大赛官网"
+      ],
+      "summary": "中国大学生工程实践与创新能力大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "全国大学生节能减排社会实践与科技竞赛": {
+      "id": "hit-eacdfd15d0",
+      "name": "全国大学生节能减排社会实践与科技竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生节能减排社会实践与科技竞赛官网"
+      ],
+      "summary": "全国大学生节能减排社会实践与科技竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "全国大学生智能汽车竞赛": {
+      "id": "hit-5d6d004127",
+      "name": "全国大学生智能汽车竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生智能汽车竞赛官网"
+      ],
+      "summary": "全国大学生智能汽车竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "全国大学生广告艺术大赛": {
+      "id": "hit-482c8e0f0a",
+      "name": "全国大学生广告艺术大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生广告艺术大赛官网"
+      ],
+      "summary": "全国大学生广告艺术大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "关于2026春季学期本科生竞赛成果申报及成绩选择的通知 : 中国科学技术大学教务处": {
+      "id": "contest-2b95c196933a",
+      "name": "关于2026春季学期本科生竞赛成果申报及成绩选择的通知 : 中国科学技术大学教务处",
+      "score": 69,
+      "grade": "C",
+      "competition_level": "国家级",
+      "ranking_included": false,
+      "organizers": [
+        "中国科学技术大学本科教学竞赛通知"
+      ],
+      "summary": "关于2026春季学期本科生竞赛成果申报及成绩选择的通知 : 中国科学技术大学教务处 当前含金量评估为 69 分，C 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "哈尔滨工业大学教务处竞赛通知": {
+      "id": "contest-115a83eda656",
+      "name": "哈尔滨工业大学教务处竞赛通知",
+      "score": 49,
+      "grade": "D",
+      "competition_level": "待确认",
+      "ranking_included": false,
+      "organizers": [
+        "哈尔滨工业大学教务处竞赛通知"
+      ],
+      "summary": "哈尔滨工业大学教务处竞赛通知 当前含金量评估为 49 分，D 级，级别判断为待确认。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生物联网设计竞赛": {
+      "id": "hit-8151af306e",
+      "name": "全国大学生物联网设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生物联网设计竞赛官网"
+      ],
+      "summary": "全国大学生物联网设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生嵌入式芯片与系统设计竞赛": {
+      "id": "hit-bf6ad2d075",
+      "name": "全国大学生嵌入式芯片与系统设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生嵌入式芯片与系统设计竞赛官网"
+      ],
+      "summary": "全国大学生嵌入式芯片与系统设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "中国高校智能机器人创意大赛": {
+      "id": "hit-666b9f6f5b",
+      "name": "中国高校智能机器人创意大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "中国高校智能机器人创意大赛官网"
+      ],
+      "summary": "中国高校智能机器人创意大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "“西门子杯”中国智能制造挑战赛": {
+      "id": "hit-878aa9f99e",
+      "name": "“西门子杯”中国智能制造挑战赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "“西门子杯”中国智能制造挑战赛官网"
+      ],
+      "summary": "“西门子杯”中国智能制造挑战赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "全国大学生光电设计竞赛": {
+      "id": "hit-d155dbac07",
+      "name": "全国大学生光电设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生光电设计竞赛官网"
+      ],
+      "summary": "全国大学生光电设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生化工设计竞赛": {
+      "id": "hit-12191adc6c",
+      "name": "全国大学生化工设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "全国大学生化工设计竞赛官网"
+      ],
+      "summary": "全国大学生化工设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 20,
+        "hit_recognition": 15,
+        "information_completeness": 15
+      }
+    },
+    "全国周培源大学生力学竞赛": {
+      "id": "hit-d363d82ae8",
+      "name": "全国周培源大学生力学竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国周培源大学生力学竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生集成电路创新创业大赛": {
+      "id": "hit-2553e7b593",
+      "name": "全国大学生集成电路创新创业大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生集成电路创新创业大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "iCAN大学生创新创业大赛": {
+      "id": "hit-282cf69a73",
+      "name": "iCAN大学生创新创业大赛",
+      "score": 64,
+      "grade": "C",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "iCAN大学生创新创业大赛 当前含金量评估为 64 分，C 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "“大唐杯”全国大学生新一代信息通信技术大赛": {
+      "id": "hit-caa781a7b8",
+      "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "“大唐杯”全国大学生新一代信息通信技术大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生机械创新设计大赛": {
+      "id": "hit-d8dafa8842",
+      "name": "全国大学生机械创新设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生机械创新设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生先进成图技术与产品信息建模创新大赛": {
+      "id": "hit-ece5402915",
+      "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生先进成图技术与产品信息建模创新大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "中国大学生机械工程创新创意大赛": {
+      "id": "hit-adb08a3a0f",
+      "name": "中国大学生机械工程创新创意大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国大学生机械工程创新创意大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "国际大学生智能农业装备创新大赛": {
+      "id": "hit-d3f9669939",
+      "name": "国际大学生智能农业装备创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "国际大学生智能农业装备创新大赛 当前含金量评估为 84 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "中美青年创客大赛": {
+      "id": "hit-f26993f242",
+      "name": "中美青年创客大赛",
+      "score": 64,
+      "grade": "C",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中美青年创客大赛 当前含金量评估为 64 分，C 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生金相技能大赛": {
+      "id": "hit-eec7e6acf7",
+      "name": "全国大学生金相技能大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生金相技能大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生电子设计竞赛": {
+      "id": "hit-fafcc6c1b5",
+      "name": "全国大学生电子设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生电子设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国高校BIM毕业设计创新大赛": {
+      "id": "hit-a9ca299f89",
+      "name": "全国高校BIM毕业设计创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国高校BIM毕业设计创新大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "中国（国际）传感器创新创业大赛": {
+      "id": "hit-026526a859",
+      "name": "中国（国际）传感器创新创业大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国（国际）传感器创新创业大赛 当前含金量评估为 84 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生化学实验创新设计大赛": {
+      "id": "hit-1619e5d1ca",
+      "name": "全国大学生化学实验创新设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生化学实验创新设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "中国大学生物理学术竞赛": {
+      "id": "hit-098f36ec64",
+      "name": "中国大学生物理学术竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国大学生物理学术竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生物理实验竞赛": {
+      "id": "hit-f7ccde1c32",
+      "name": "全国大学生物理实验竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生物理实验竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生数学竞赛": {
+      "id": "hit-8b67d5e540",
+      "name": "全国大学生数学竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生数学竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "美国大学生数学建模竞赛": {
+      "id": "hit-ad8e4bb2a7",
+      "name": "美国大学生数学建模竞赛",
+      "score": 64,
+      "grade": "C",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "美国大学生数学建模竞赛 当前含金量评估为 64 分，C 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生统计建模大赛": {
+      "id": "hit-252f01d17d",
+      "name": "全国大学生统计建模大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生统计建模大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生生命科学竞赛（CULSC）": {
+      "id": "hit-9302dfe088",
+      "name": "全国大学生生命科学竞赛（CULSC）",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生生命科学竞赛（CULSC） 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国高等院校数智化企业经营沙盘大赛": {
+      "id": "hit-e79dbe31b5",
+      "name": "全国高等院校数智化企业经营沙盘大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国高等院校数智化企业经营沙盘大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生市场调查与分析大赛": {
+      "id": "hit-c6f6517de5",
+      "name": "全国大学生市场调查与分析大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生市场调查与分析大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生电子商务“创新、创意及创业”挑战赛": {
+      "id": "hit-805ece0447",
+      "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生电子商务“创新、创意及创业”挑战赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生物流设计大赛": {
+      "id": "hit-bfb07fe360",
+      "name": "全国大学生物流设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生物流设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生结构设计竞赛": {
+      "id": "hit-1057d017f3",
+      "name": "全国大学生结构设计竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生结构设计竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生建筑类竞赛": {
+      "id": "hit-8490a8bf10",
+      "name": "全国大学生建筑类竞赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生建筑类竞赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生混凝土材料设计大赛": {
+      "id": "hit-40fdd21e27",
+      "name": "全国大学生混凝土材料设计大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生混凝土材料设计大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生交通运输科技大赛": {
+      "id": "hit-8bb19d8a43",
+      "name": "全国大学生交通运输科技大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生交通运输科技大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生软件创新大赛": {
+      "id": "hit-243c2cade9",
+      "name": "全国大学生软件创新大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生软件创新大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "中国机器人及人工智能大赛": {
+      "id": "hit-c72732d701",
+      "name": "中国机器人及人工智能大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国机器人及人工智能大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生计算机系统能力大赛": {
+      "id": "hit-6216bc68ed",
+      "name": "全国大学生计算机系统能力大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生计算机系统能力大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全球校园人工智能算法精英大赛": {
+      "id": "hit-fb65034b83",
+      "name": "全球校园人工智能算法精英大赛",
+      "score": 72,
+      "grade": "B",
+      "competition_level": "校级/校内认定",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全球校园人工智能算法精英大赛 当前含金量评估为 72 分，B 级，级别判断为校级/校内认定。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国英语口译大赛": {
+      "id": "hit-ab70fe7870",
+      "name": "全国英语口译大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国英语口译大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "“外研社·国才杯”全国大学生英语辩论赛": {
+      "id": "hit-335ab0bfae",
+      "name": "“外研社·国才杯”全国大学生英语辩论赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "“外研社·国才杯”全国大学生英语辩论赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "“21世纪杯”全国英语演讲比赛": {
+      "id": "hit-d5443c1d1e",
+      "name": "“21世纪杯”全国英语演讲比赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "“21世纪杯”全国英语演讲比赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国大学生职业规划大赛（学生赛道）": {
+      "id": "hit-b3939fffcc",
+      "name": "全国大学生职业规划大赛（学生赛道）",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国大学生职业规划大赛（学生赛道） 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "中国大学生方程式系列赛事": {
+      "id": "hit-422ff64950",
+      "name": "中国大学生方程式系列赛事",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "中国大学生方程式系列赛事 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国海洋航行器设计与制作大赛": {
+      "id": "hit-679c286852",
+      "name": "全国海洋航行器设计与制作大赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国海洋航行器设计与制作大赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "全国航空航天模型锦标赛": {
+      "id": "hit-aa2769c8bc",
+      "name": "全国航空航天模型锦标赛",
+      "score": 84,
+      "grade": "B",
+      "competition_level": "国家级",
+      "ranking_included": true,
+      "organizers": [
+        "2025年《哈尔滨工业大学学生手册》"
+      ],
+      "summary": "全国航空航天模型锦标赛 当前含金量评估为 84 分，B 级，级别判断为国家级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 15,
+        "information_completeness": 10
+      }
+    },
+    "关于2026年复旦大学暑期国际课程（FISS）的报名通知": {
+      "id": "contest-1f8519ce46b0",
+      "name": "关于2026年复旦大学暑期国际课程（FISS）的报名通知",
+      "score": 73,
+      "grade": "B",
+      "competition_level": "国际级",
+      "ranking_included": true,
+      "organizers": [
+        "上海交通大学教务处竞赛通知"
+      ],
+      "summary": "关于2026年复旦大学暑期国际课程（FISS）的报名通知 当前含金量评估为 73 分，B 级，级别判断为国际级。",
+      "dimensions": {
+        "source_authority": 10,
+        "hit_recognition": 0,
+        "information_completeness": 15
+      }
+    }
+  }
+}

@@ -1,0 +1,852 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "国赛",
+      "contest_name": "国赛",
+      "description": "围绕国赛推进作品/方案，当前需要补齐分工、时间投入和材料产出。原始需求：缺论文手",
+      "tags_text": "国赛、缺论文手、1人",
+      "roles": [
+        {
+          "id": "1",
+          "name": "1人",
+          "direction": "1人",
+          "needed": 1,
+          "filled": 0,
+          "skills": [],
+          "confirmed_members": [],
+          "status": "招募中"
+        }
+      ],
+      "gates": {
+        "campuses": [
+          "威海校区"
+        ],
+        "colleges": [
+          "紫丁香书院"
+        ],
+        "grades": [
+          "大二"
+        ],
+        "majors": [
+          "智能制造工程"
+        ],
+        "require_statement": false
+      },
+      "publisher_id": "2025210749",
+      "publisher_profile": {
+        "name": "邱宇澄",
+        "studentId": "2025210749",
+        "campus": "威海校区",
+        "college": "紫丁香书院",
+        "major": "工科试验班",
+        "grade": "大一",
+        "target": "AI、机器人、数学建模、软件开发、产品设计、电子设计",
+        "interests": [
+          "AI",
+          "机器人",
+          "数学建模",
+          "软件开发",
+          "产品设计",
+          "电子设计"
+        ],
+        "gpa": "90",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false
+      },
+      "created_at": "2026-05-17 06:08:06",
+      "updated_at": "2026-05-17 06:08:06"
+    },
+    {
+      "id": 101,
+      "demo_key": "demo-mcm-2026",
+      "title": "数学建模国赛建模与论文队友招募",
+      "contest_name": "全国大学生数学建模竞赛",
+      "description": "队伍已有一名负责建模和一名负责代码实现，目标是完整冲刺国赛。当前需要补齐论文写作、图表排版和结果解释，要求每周稳定投入两到三晚。",
+      "tags_text": "数学建模、Python、论文写作、数据分析",
+      "roles": [
+        {
+          "id": "1",
+          "name": "论文手",
+          "direction": "论文写作与排版",
+          "needed": 1,
+          "filled": 0,
+          "skills": [
+            "LaTeX",
+            "Word",
+            "论文结构"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        },
+        {
+          "id": "2",
+          "name": "数据分析",
+          "direction": "模型求解与可视化",
+          "needed": 1,
+          "filled": 0,
+          "skills": [
+            "Python",
+            "MATLAB",
+            "可视化"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        }
+      ],
+      "gates": {
+        "campuses": [],
+        "colleges": [],
+        "grades": [
+          "大二",
+          "大三"
+        ],
+        "majors": [],
+        "require_statement": true
+      },
+      "publisher_id": "demo202601",
+      "publisher_profile": {
+        "name": "林同学",
+        "studentId": "demo202601",
+        "campus": "哈尔滨校区",
+        "college": "计算学部",
+        "major": "计算机科学与技术",
+        "grade": "大二",
+        "target": "竞赛获奖、项目经历、保研/就业材料沉淀",
+        "interests": [
+          "数学建模",
+          "算法",
+          "数据分析"
+        ],
+        "gpa": "",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false
+      },
+      "created_at": "2026-05-17 21:59:29",
+      "updated_at": "2026-05-17 21:59:29"
+    },
+    {
+      "id": 102,
+      "demo_key": "demo-software-cup",
+      "title": "中国软件杯AI应用队招后端与产品",
+      "contest_name": "中国软件杯大学生软件设计大赛",
+      "description": "准备做面向校园竞赛服务的AI应用，已有前端原型和基础需求文档。希望招募后端、算法接口和产品答辩成员，一起完成可演示系统。",
+      "tags_text": "中国软件杯、AI应用、后端、产品答辩",
+      "roles": [
+        {
+          "id": "1",
+          "name": "后端开发",
+          "direction": "接口与数据库",
+          "needed": 1,
+          "filled": 0,
+          "skills": [
+            "Python",
+            "FastAPI",
+            "数据库"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        },
+        {
+          "id": "2",
+          "name": "产品答辩",
+          "direction": "需求梳理与PPT",
+          "needed": 1,
+          "filled": 0,
+          "skills": [
+            "原型",
+            "PPT",
+            "路演"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        }
+      ],
+      "gates": {
+        "campuses": [],
+        "colleges": [
+          "计算学部"
+        ],
+        "grades": [],
+        "majors": [],
+        "require_statement": false
+      },
+      "publisher_id": "demo202602",
+      "publisher_profile": {
+        "name": "周同学",
+        "studentId": "demo202602",
+        "campus": "哈尔滨校区",
+        "college": "计算学部",
+        "major": "软件工程",
+        "grade": "大三",
+        "target": "竞赛获奖、项目经历、保研/就业材料沉淀",
+        "interests": [
+          "AI",
+          "软件开发",
+          "产品设计"
+        ],
+        "gpa": "",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false
+      },
+      "created_at": "2026-05-17 21:59:29",
+      "updated_at": "2026-05-17 21:59:29"
+    },
+    {
+      "id": 103,
+      "demo_key": "demo-nuedc",
+      "title": "电子设计竞赛硬件调试队补控制方向",
+      "contest_name": "全国大学生电子设计竞赛",
+      "description": "队伍已有电路基础和仪器资源，方向偏嵌入式控制与信号采集。需要能做单片机/STM32调试、传感器采集或测试记录的同学。",
+      "tags_text": "电子设计、STM32、硬件调试、控制",
+      "roles": [
+        {
+          "id": "1",
+          "name": "控制算法",
+          "direction": "嵌入式控制",
+          "needed": 1,
+          "filled": 0,
+          "skills": [
+            "STM32",
+            "C语言",
+            "控制"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        },
+        {
+          "id": "2",
+          "name": "测试记录",
+          "direction": "实验记录与报告",
+          "needed": 1,
+          "filled": 1,
+          "skills": [
+            "示波器",
+            "报告",
+            "数据整理"
+          ],
+          "confirmed_members": [
+            {
+              "application_id": 0,
+              "user_id": "demo-member-103",
+              "profile": {
+                "name": "已定成员",
+                "studentId": "demo-member-103",
+                "campus": "威海校区",
+                "college": "信息科学与工程学院",
+                "major": "电子信息工程",
+                "grade": "大二",
+                "target": "竞赛获奖、项目经历、保研/就业材料沉淀",
+                "interests": [
+                  "电子设计"
+                ],
+                "gpa": "",
+                "phone": "",
+                "qq": "",
+                "phonePublic": false,
+                "qqPublic": false
+              },
+              "joined_at": "2026-05-17 21:59:29"
+            }
+          ],
+          "status": "已确定"
+        }
+      ],
+      "gates": {
+        "campuses": [
+          "威海校区"
+        ],
+        "colleges": [],
+        "grades": [],
+        "majors": [],
+        "require_statement": true
+      },
+      "publisher_id": "demo202603",
+      "publisher_profile": {
+        "name": "王同学",
+        "studentId": "demo202603",
+        "campus": "威海校区",
+        "college": "信息科学与工程学院",
+        "major": "电子信息工程",
+        "grade": "大二",
+        "target": "竞赛获奖、项目经历、保研/就业材料沉淀",
+        "interests": [
+          "电子设计",
+          "嵌入式"
+        ],
+        "gpa": "",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false
+      },
+      "created_at": "2026-05-17 21:59:29",
+      "updated_at": "2026-05-17 21:59:29"
+    },
+    {
+      "id": 104,
+      "demo_key": "demo-robomaster",
+      "title": "RoboMaster视觉识别方向招募",
+      "contest_name": "RoboMaster高校系列赛",
+      "description": "实验室队伍需要补视觉识别和ROS联调方向，已有机械和电控同学。适合愿意长期投入、能做代码复盘和现场调试的同学。",
+      "tags_text": "RoboMaster、机器人、OpenCV、ROS",
+      "roles": [
+        {
+          "id": "1",
+          "name": "视觉识别",
+          "direction": "目标检测与追踪",
+          "needed": 2,
+          "filled": 0,
+          "skills": [
+            "OpenCV",
+            "Python",
+            "深度学习"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        },
+        {
+          "id": "2",
+          "name": "ROS联调",
+          "direction": "机器人系统集成",
+          "needed": 1,
+          "filled": 0,
+          "skills": [
+            "ROS",
+            "Linux",
+            "C++"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        }
+      ],
+      "gates": {
+        "campuses": [],
+        "colleges": [],
+        "grades": [
+          "大一",
+          "大二",
+          "大三"
+        ],
+        "majors": [],
+        "require_statement": true
+      },
+      "publisher_id": "demo202604",
+      "publisher_profile": {
+        "name": "赵同学",
+        "studentId": "demo202604",
+        "campus": "深圳校区",
+        "college": "机电工程与自动化学院",
+        "major": "自动化",
+        "grade": "大三",
+        "target": "竞赛获奖、项目经历、保研/就业材料沉淀",
+        "interests": [
+          "机器人",
+          "机器视觉"
+        ],
+        "gpa": "",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false
+      },
+      "created_at": "2026-05-17 21:59:29",
+      "updated_at": "2026-05-17 21:59:29"
+    },
+    {
+      "id": 105,
+      "demo_key": "demo-challenge-cup",
+      "title": "挑战杯创业计划项目招产品与调研",
+      "contest_name": "挑战杯中国大学生创业计划竞赛",
+      "description": "项目方向是校园低碳能源管理，已有技术方案雏形。希望补充用户调研、商业模式、路演PPT和财务测算，目标形成完整创业计划书。",
+      "tags_text": "挑战杯、创新创业、产品、调研、路演",
+      "roles": [
+        {
+          "id": "1",
+          "name": "用户调研",
+          "direction": "访谈与数据整理",
+          "needed": 1,
+          "filled": 0,
+          "skills": [
+            "问卷",
+            "访谈",
+            "数据分析"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        },
+        {
+          "id": "2",
+          "name": "路演材料",
+          "direction": "PPT与商业计划书",
+          "needed": 1,
+          "filled": 0,
+          "skills": [
+            "PPT",
+            "商业模式",
+            "文案"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        }
+      ],
+      "gates": {
+        "campuses": [],
+        "colleges": [],
+        "grades": [],
+        "majors": [],
+        "require_statement": false
+      },
+      "publisher_id": "demo202605",
+      "publisher_profile": {
+        "name": "陈同学",
+        "studentId": "demo202605",
+        "campus": "哈尔滨校区",
+        "college": "经济与管理学院",
+        "major": "工商管理",
+        "grade": "大二",
+        "target": "竞赛获奖、项目经历、保研/就业材料沉淀",
+        "interests": [
+          "创新创业",
+          "产品设计"
+        ],
+        "gpa": "",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false
+      },
+      "created_at": "2026-05-17 21:59:29",
+      "updated_at": "2026-05-17 21:59:29"
+    },
+    {
+      "id": 106,
+      "title": "西门子来",
+      "contest_name": "“西门子杯”中国智能制造挑战赛",
+      "description": "我们准备围绕“西门子杯”中国智能制造挑战赛组建/补强队伍，目前重点方向是算法/数据/模型。当前需求：会stem32,c语言 拟招募角色：算法:3:C语言优先；设计:2:项目经验优先。希望队友能稳定沟通、按周推进，参与资料整理、方案实现、测试记录和最终答辩。申请时请简单说明：你能承担的角色、相关课程/项目/竞赛经历、每周可投入时间，以及为什么想加入本队。",
+      "tags_text": "电子设计、产品设计",
+      "roles": [
+        {
+          "id": "1",
+          "name": "算法",
+          "direction": "算法",
+          "needed": 3,
+          "filled": 0,
+          "skills": [
+            "C语言优先"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        },
+        {
+          "id": "2",
+          "name": "设计",
+          "direction": "设计",
+          "needed": 2,
+          "filled": 0,
+          "skills": [
+            "项目经验优先"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        }
+      ],
+      "gates": {
+        "campuses": [
+          "威海校区"
+        ],
+        "colleges": [
+          "材料科学与工程学院"
+        ],
+        "grades": [],
+        "majors": [],
+        "require_statement": true
+      },
+      "publisher_id": "2025212357",
+      "publisher_profile": {
+        "name": "郝彦铭",
+        "studentId": "2025212357",
+        "campus": "威海校区",
+        "college": "材料科学与工程学院",
+        "major": "材料科学与工程",
+        "grade": "大一",
+        "target": "",
+        "interests": [],
+        "gpa": "",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false
+      },
+      "created_at": "2026-05-19 11:05:21",
+      "updated_at": "2026-05-19 11:05:21"
+    },
+    {
+      "id": 107,
+      "title": "国赛队友招募",
+      "contest_name": "全国大学生数学建模竞赛",
+      "description": "我们准备围绕全国大学生数学建模竞赛组建/补强队伍，目前重点方向是建模/论文/数据分析。当前需求：我想要一名论文手，现在已经有一名建模手和编程手，冲击国奖 拟招募角色：建模/论文/数据分析方向队友1-2名。希望队友能稳定沟通、按周推进，参与资料整理、方案实现、测试记录和最终答辩。申请时请简单说明：你能承担的角色、相关课程/项目/竞赛经历、每周可投入时间，以及为什么想加入本队。",
+      "tags_text": "数学建模",
+      "roles": [
+        {
+          "id": "1",
+          "name": "论文",
+          "direction": "论文",
+          "needed": 1,
+          "filled": 0,
+          "skills": [
+            "论文写作"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        }
+      ],
+      "gates": {
+        "campuses": [
+          "威海校区"
+        ],
+        "colleges": [],
+        "grades": [],
+        "majors": [],
+        "require_statement": true
+      },
+      "publisher_id": "2025210749",
+      "publisher_profile": {
+        "name": "邱宇澄",
+        "studentId": "2025210749",
+        "campus": "威海校区",
+        "college": "紫丁香书院",
+        "major": "工科试验班",
+        "grade": "大一",
+        "target": "AI、机器人、数学建模、科研训练",
+        "interests": [
+          "AI",
+          "机器人",
+          "数学建模",
+          "科研训练"
+        ],
+        "gpa": "88.5",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false
+      },
+      "created_at": "2026-05-19 23:17:31",
+      "updated_at": "2026-05-19 23:17:31"
+    },
+    {
+      "id": 108,
+      "title": "嵌赛找队友",
+      "contest_name": "全国大学生嵌入式芯片与系统设计竞赛",
+      "description": "我们准备围绕全国大学生嵌入式芯片与系统设计竞赛组建/补强队伍，目前重点方向是算法/数据/模型。当前需求：我需要一个会硬件方面的同学，一个会上位机调试的同学 拟招募角色：硬件调试:1:会单片机；上位机:1:会算法调试。希望队友能稳定沟通、按周推进，参与资料整理、方案实现、测试记录和最终答辩。申请时请简单说明：你能承担的角色、相关课程/项目/竞赛经历、每周可投入时间，以及为什么想加入本队。",
+      "tags_text": "AI、科研训练、嵌入式",
+      "roles": [
+        {
+          "id": "1",
+          "name": "硬件调试",
+          "direction": "硬件调试",
+          "needed": 1,
+          "filled": 0,
+          "skills": [
+            "会单片机"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        },
+        {
+          "id": "2",
+          "name": "上位机",
+          "direction": "上位机",
+          "needed": 1,
+          "filled": 0,
+          "skills": [
+            "会算法调试"
+          ],
+          "confirmed_members": [],
+          "status": "招募中"
+        }
+      ],
+      "gates": {
+        "campuses": [],
+        "colleges": [],
+        "grades": [],
+        "majors": [],
+        "require_statement": true
+      },
+      "publisher_id": "2025210749",
+      "publisher_profile": {
+        "name": "邱宇澄",
+        "studentId": "2025210749",
+        "campus": "威海校区",
+        "college": "紫丁香书院",
+        "major": "工科试验班",
+        "grade": "大一",
+        "target": "AI、机器人、数学建模、科研训练、保研",
+        "interests": [
+          "AI",
+          "机器人",
+          "数学建模",
+          "科研训练",
+          "保研"
+        ],
+        "gpa": "88.5",
+        "phone": "13684232966",
+        "qq": "",
+        "phonePublic": true,
+        "qqPublic": false
+      },
+      "created_at": "2026-05-19 23:24:20",
+      "updated_at": "2026-05-19 23:24:20"
+    }
+  ],
+  "applications": [
+    {
+      "id": 1,
+      "post_id": 105,
+      "post_title": "挑战杯创业计划项目招产品与调研",
+      "role_id": "1",
+      "role_name": "用户调研",
+      "publisher_id": "demo202605",
+      "applicant_id": "2025210749",
+      "applicant_profile": {
+        "name": "邱宇澄",
+        "studentId": "2025210749",
+        "campus": "威海校区",
+        "college": "紫丁香书院",
+        "major": "工科试验班",
+        "grade": "大一",
+        "target": "AI、机器人、数学建模、软件开发、产品设计、电子设计",
+        "interests": [
+          "AI",
+          "机器人",
+          "数学建模",
+          "软件开发",
+          "产品设计",
+          "电子设计"
+        ],
+        "gpa": "90",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false,
+        "competition": "美赛",
+        "project": "智能车实验室，电机控制课题组"
+      },
+      "statement": "",
+      "match_score": 44,
+      "score_detail": [
+        {
+          "label": "技能经历",
+          "value": 0,
+          "reason": "暂未从个人经历中识别到岗位关键词"
+        },
+        {
+          "label": "方向兴趣",
+          "value": 4,
+          "reason": "个人信息中出现相关方向：产品"
+        }
+      ],
+      "gate_reasons": [
+        "无硬性门槛"
+      ],
+      "status": "pending",
+      "created_at": "2026-05-18 21:22:11",
+      "updated_at": "2026-05-18 21:22:11"
+    },
+    {
+      "id": 2,
+      "post_id": 105,
+      "post_title": "挑战杯创业计划项目招产品与调研",
+      "role_id": "2",
+      "role_name": "路演材料",
+      "publisher_id": "demo202605",
+      "applicant_id": "2025212357",
+      "applicant_profile": {
+        "name": "郝彦铭",
+        "studentId": "2025212357",
+        "campus": "威海校区",
+        "college": "材料科学与工程学院",
+        "major": "材料科学与工程",
+        "grade": "大一",
+        "target": "",
+        "interests": [],
+        "gpa": "",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false,
+        "competition": "",
+        "project": ""
+      },
+      "statement": "",
+      "match_score": 40,
+      "score_detail": [
+        {
+          "label": "技能经历",
+          "value": 0,
+          "reason": "暂未从个人经历中识别到岗位关键词"
+        }
+      ],
+      "gate_reasons": [
+        "无硬性门槛"
+      ],
+      "status": "pending",
+      "created_at": "2026-05-19 00:56:56",
+      "updated_at": "2026-05-19 00:56:56"
+    },
+    {
+      "id": 3,
+      "post_id": 105,
+      "post_title": "挑战杯创业计划项目招产品与调研",
+      "role_id": "1",
+      "role_name": "用户调研",
+      "publisher_id": "demo202605",
+      "applicant_id": "2025212357",
+      "applicant_profile": {
+        "name": "郝彦铭",
+        "studentId": "2025212357",
+        "campus": "威海校区",
+        "college": "材料科学与工程学院",
+        "major": "材料科学与工程",
+        "grade": "大一",
+        "target": "",
+        "interests": [],
+        "gpa": "",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false,
+        "competition": "",
+        "project": ""
+      },
+      "statement": "",
+      "match_score": 40,
+      "score_detail": [
+        {
+          "label": "技能经历",
+          "value": 0,
+          "reason": "暂未从个人经历中识别到岗位关键词"
+        }
+      ],
+      "gate_reasons": [
+        "无硬性门槛"
+      ],
+      "status": "pending",
+      "created_at": "2026-05-19 00:56:56",
+      "updated_at": "2026-05-19 00:56:56"
+    },
+    {
+      "id": 4,
+      "post_id": 103,
+      "post_title": "电子设计竞赛硬件调试队补控制方向",
+      "role_id": "1",
+      "role_name": "控制算法",
+      "publisher_id": "demo202603",
+      "applicant_id": "2025212357",
+      "applicant_profile": {
+        "name": "郝彦铭",
+        "studentId": "2025212357",
+        "campus": "威海校区",
+        "college": "材料科学与工程学院",
+        "major": "材料科学与工程",
+        "grade": "大一",
+        "target": "",
+        "interests": [],
+        "gpa": "",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false,
+        "competition": "",
+        "project": ""
+      },
+      "statement": "W",
+      "match_score": 56,
+      "score_detail": [
+        {
+          "label": "校区",
+          "value": 8,
+          "reason": "与发布者同校区，线下沟通成本低"
+        },
+        {
+          "label": "技能经历",
+          "value": 0,
+          "reason": "暂未从个人经历中识别到岗位关键词"
+        },
+        {
+          "label": "申请说明",
+          "value": 8,
+          "reason": "提交了具体申请说明，便于发布者判断"
+        }
+      ],
+      "gate_reasons": [
+        "校区符合门槛"
+      ],
+      "status": "pending",
+      "created_at": "2026-05-19 00:57:27",
+      "updated_at": "2026-05-19 00:57:27"
+    },
+    {
+      "id": 5,
+      "post_id": 105,
+      "post_title": "挑战杯创业计划项目招产品与调研",
+      "role_id": "2",
+      "role_name": "路演材料",
+      "publisher_id": "demo202605",
+      "applicant_id": "2025210749",
+      "applicant_profile": {
+        "name": "邱宇澄",
+        "studentId": "2025210749",
+        "campus": "威海校区",
+        "college": "紫丁香书院",
+        "major": "工科试验班",
+        "grade": "大一",
+        "target": "AI、机器人、数学建模、科研训练",
+        "interests": [
+          "AI",
+          "机器人",
+          "数学建模",
+          "科研训练"
+        ],
+        "gpa": "88.5",
+        "phone": "",
+        "qq": "",
+        "phonePublic": false,
+        "qqPublic": false,
+        "competition": "美赛论文手\n嵌赛上位机\n智能小车调试",
+        "project": "智能车实验室，电机控制课题组"
+      },
+      "statement": "",
+      "match_score": 40,
+      "score_detail": [
+        {
+          "label": "技能经历",
+          "value": 0,
+          "reason": "暂未从个人经历中识别到岗位关键词"
+        }
+      ],
+      "gate_reasons": [
+        "无硬性门槛"
+      ],
+      "status": "pending",
+      "created_at": "2026-05-19 22:25:13",
+      "updated_at": "2026-05-19 22:25:13"
+    }
+  ],
+  "unbind_requests": [],
+  "complaints": [],
+  "penalties": {},
+  "demo_seed_version": 1,
+  "counters": {
+    "post": 108,
+    "application": 5,
+    "unbind": 0,
+    "complaint": 0
+  }
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "name": "全国大学生数学建模竞赛官网",
+    "url": "https://www.mcm.edu.cn/index.moma",
+    "official_link": "https://www.mcm.edu.cn/index.moma",
+    "category": "数学建模",
+    "source_type": "official",
+    "keywords": ["数学建模", "建模", "国赛", "通知", "报名"],
+    "max_links": 8
+  },
+  {
+    "name": "全国大学生数学建模竞赛通知页",
+    "url": "https://www.cmathc.org.cn/mcm/tz/418.html",
+    "official_link": "https://www.mcm.edu.cn/index.moma",
+    "category": "数学建模",
+    "source_type": "official",
+    "keywords": ["数学建模", "高教社杯", "CUMCM", "报名", "通知"],
+    "max_links": 1
+  },
+  {
+    "name": "中国大学生计算机设计大赛官网",
+    "url": "https://jsjds.blcu.edu.cn/index.htm",
+    "official_link": "https://jsjds.blcu.edu.cn/index.htm",
+    "category": "编程",
+    "source_type": "official",
+    "keywords": ["计算机设计", "软件", "人工智能", "作品", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "全国大学生电子设计竞赛官网",
+    "url": "http://nuedc.xjtu.edu.cn/",
+    "official_link": "http://nuedc.xjtu.edu.cn/",
+    "category": "电子",
+    "source_type": "official",
+    "keywords": ["电子设计", "电赛", "专题竞赛", "通知", "报名"],
+    "max_links": 8
+  },
+  {
+    "name": "蓝桥杯官网",
+    "url": "https://dasai.lanqiao.cn/",
+    "official_link": "https://dasai.lanqiao.cn/",
+    "category": "编程",
+    "source_type": "official",
+    "keywords": ["蓝桥杯", "软件", "信息技术", "报名", "大赛"],
+    "max_links": 8
+  },
+  {
+    "name": "中国国际大学生创新大赛平台",
+    "url": "https://cy.ncss.cn/",
+    "official_link": "https://cy.ncss.cn/",
+    "category": "创新创业",
+    "source_type": "official",
+    "keywords": ["创新大赛", "创新创业", "互联网+", "报名", "通知"],
+    "max_links": 6
+  },
+  {
+    "name": "挑战杯官网",
+    "url": "https://www.tiaozhanbei.net/",
+    "official_link": "https://www.tiaozhanbei.net/",
+    "category": "创新创业",
+    "source_type": "official",
+    "keywords": ["挑战杯", "课外学术", "创业计划", "竞赛", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "中国大学生服务外包创新创业大赛官网",
+    "url": "https://www.fwwb.org.cn/",
+    "official_link": "https://www.fwwb.org.cn/",
+    "category": "创新创业",
+    "source_type": "official",
+    "keywords": ["服务外包", "创新创业", "大赛", "报名", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "全国大学生机器人大赛官网",
+    "url": "https://www.curc.cn/",
+    "official_link": "https://www.curc.cn/",
+    "category": "机器人",
+    "source_type": "official",
+    "keywords": ["机器人", "RoboMaster", "Robocon", "规则", "报名"],
+    "max_links": 8
+  },
+  {
+    "name": "RoboMaster 高校系列赛官网",
+    "url": "https://www.robomaster.com/zh-CN/robo/overview?djifrom=homepage",
+    "official_link": "https://www.robomaster.com/zh-CN/robo/overview?djifrom=homepage",
+    "category": "机器人",
+    "source_type": "official",
+    "keywords": ["RoboMaster", "机甲大师", "高校系列赛", "机器人"],
+    "max_links": 4
+  },
+  {
+    "name": "清华大学教务处竞赛通知",
+    "url": "https://jwc.tsinghua.edu.cn/",
+    "official_link": "https://jwc.tsinghua.edu.cn/",
+    "category": "综合",
+    "source_type": "university",
+    "keywords": ["竞赛", "大赛", "报名", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "北京大学教务部竞赛通知",
+    "url": "https://jwc.pku.edu.cn/",
+    "official_link": "https://jwc.pku.edu.cn/",
+    "category": "综合",
+    "source_type": "university",
+    "keywords": ["竞赛", "大赛", "报名", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "浙江大学本科生院竞赛通知",
+    "url": "https://bksy.zju.edu.cn/",
+    "official_link": "https://bksy.zju.edu.cn/",
+    "category": "综合",
+    "source_type": "university",
+    "keywords": ["竞赛", "大赛", "报名", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "东北大学官网竞赛与创新创业通知",
+    "url": "https://www.neu.edu.cn/",
+    "official_link": "https://www.neu.edu.cn/",
+    "category": "综合",
+    "source_type": "university",
+    "keywords": ["东北大学", "竞赛", "大赛", "创新创业", "挑战杯", "报名", "通知", "获奖"],
+    "max_links": 12
+  },
+  {
+    "name": "东北大学新闻网竞赛动态",
+    "url": "https://neunews.neu.edu.cn/",
+    "official_link": "https://neunews.neu.edu.cn/",
+    "category": "综合",
+    "source_type": "university",
+    "keywords": ["东北大学", "竞赛", "大赛", "挑战杯", "创新创业", "获奖", "通知"],
+    "max_links": 10
+  },
+  {
+    "name": "东北大学创新创业学院竞赛通知",
+    "url": "https://cxcy.neu.edu.cn/",
+    "official_link": "https://cxcy.neu.edu.cn/",
+    "category": "创新创业",
+    "source_type": "university",
+    "keywords": ["创新创业", "竞赛", "大赛", "报名", "立项", "项目", "通知"],
+    "max_links": 10
+  },
+  {
+    "name": "赛氪竞赛平台",
+    "url": "https://www.saikr.com/",
+    "official_link": "https://www.saikr.com/",
+    "category": "综合",
+    "source_type": "platform",
+    "keywords": ["竞赛", "大赛", "报名", "高校", "数学建模", "创新创业"],
+    "max_links": 12
+  },
+  {
+    "name": "我爱竞赛网",
+    "url": "https://www.52jingsai.com/",
+    "official_link": "https://www.52jingsai.com/",
+    "category": "综合",
+    "source_type": "platform",
+    "keywords": ["竞赛", "大赛", "报名", "大学生", "通知"],
+    "max_links": 12
+  },
+  {
+    "name": "中国大学生竞赛网",
+    "url": "http://www.dxszs.com/",
+    "official_link": "http://www.dxszs.com/",
+    "category": "综合",
+    "source_type": "platform",
+    "keywords": ["大学生竞赛", "竞赛", "大赛", "报名", "通知"],
+    "max_links": 10
+  },
+  {
+    "name": "中国高等教育学会竞赛榜单",
+    "url": "https://www.cahe.edu.cn/",
+    "official_link": "https://www.cahe.edu.cn/",
+    "category": "综合",
+    "source_type": "authority",
+    "keywords": ["全国普通高校大学生竞赛", "竞赛榜单", "排行榜", "竞赛", "榜单"],
+    "max_links": 10
+  },
+  {
+    "name": "中国高校计算机大赛官网",
+    "url": "http://www.c4best.cn/",
+    "official_link": "http://www.c4best.cn/",
+    "category": "编程",
+    "source_type": "official",
+    "keywords": ["中国高校计算机大赛", "大数据", "人工智能", "网络技术", "报名", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "全国大学生信息安全竞赛官网",
+    "url": "http://www.ciscn.cn/",
+    "official_link": "http://www.ciscn.cn/",
+    "category": "编程",
+    "source_type": "official",
+    "keywords": ["信息安全", "网络安全", "竞赛", "报名", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "中国大学生程序设计竞赛 CCPC",
+    "url": "https://ccpc.io/",
+    "official_link": "https://ccpc.io/",
+    "category": "编程",
+    "source_type": "official",
+    "keywords": ["CCPC", "程序设计", "算法", "竞赛", "报名"],
+    "max_links": 8
+  },
+  {
+    "name": "ICPC 区域赛官网",
+    "url": "https://icpc.global/regionals",
+    "official_link": "https://icpc.global/regionals",
+    "category": "编程",
+    "source_type": "official",
+    "keywords": ["ICPC", "程序设计", "算法", "regionals", "contest"],
+    "max_links": 6
+  },
+  {
+    "name": "中国大学生工程实践与创新能力大赛官网",
+    "url": "http://www.gcxl.edu.cn/",
+    "official_link": "http://www.gcxl.edu.cn/",
+    "category": "工程实践",
+    "source_type": "official",
+    "keywords": ["工程实践", "创新能力", "竞赛", "智能车", "报名", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "全国大学生节能减排社会实践与科技竞赛官网",
+    "url": "http://www.jienengjianpai.org/",
+    "official_link": "http://www.jienengjianpai.org/",
+    "category": "创新创业",
+    "source_type": "official",
+    "keywords": ["节能减排", "社会实践", "科技竞赛", "报名", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "全国大学生智能汽车竞赛官网",
+    "url": "https://www.smartcar.zone/",
+    "official_link": "https://www.smartcar.zone/",
+    "category": "电子",
+    "source_type": "official",
+    "keywords": ["智能车", "智能汽车", "自动控制", "竞赛", "报名"],
+    "max_links": 8
+  },
+  {
+    "name": "全国三维数字化创新设计大赛官网",
+    "url": "https://3dds.3ddl.net/index.php",
+    "official_link": "https://3dds.3ddl.net/index.php",
+    "category": "设计",
+    "source_type": "official",
+    "keywords": ["三维数字化", "创新设计", "3D", "竞赛", "报名"],
+    "max_links": 8
+  },
+  {
+    "name": "全国大学生广告艺术大赛官网",
+    "url": "https://www.sun-ada.net/",
+    "official_link": "https://www.sun-ada.net/",
+    "category": "设计",
+    "source_type": "official",
+    "keywords": ["广告艺术", "大广赛", "设计", "竞赛", "报名"],
+    "max_links": 8
+  },
+  {
+    "name": "外研社国才杯官网",
+    "url": "https://ucc.fltrp.com/",
+    "official_link": "https://ucc.fltrp.com/",
+    "category": "外语",
+    "source_type": "official",
+    "keywords": ["外研社", "国才杯", "英语", "演讲", "写作", "阅读", "报名"],
+    "max_links": 8
+  },
+  {
+    "name": "上海交通大学教务处竞赛通知",
+    "url": "https://www.jwc.sjtu.edu.cn/",
+    "official_link": "https://www.jwc.sjtu.edu.cn/",
+    "category": "综合",
+    "source_type": "university",
+    "keywords": ["竞赛", "大赛", "报名", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "南京大学教务处竞赛通知",
+    "url": "https://jw.nju.edu.cn/",
+    "official_link": "https://jw.nju.edu.cn/",
+    "category": "综合",
+    "source_type": "university",
+    "keywords": ["竞赛", "大赛", "报名", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "中国科学技术大学本科教学竞赛通知",
+    "url": "https://www.teach.ustc.edu.cn/",
+    "official_link": "https://www.teach.ustc.edu.cn/",
+    "category": "综合",
+    "source_type": "university",
+    "keywords": ["竞赛", "大赛", "报名", "通知"],
+    "max_links": 8
+  },
+  {
+    "name": "哈尔滨工业大学教务处竞赛通知",
+    "url": "https://jwc.hit.edu.cn/",
+    "official_link": "https://jwc.hit.edu.cn/",
+    "category": "综合",
+    "source_type": "university",
+    "keywords": ["竞赛", "大赛", "报名", "通知", "学生手册", "校内认定"],
+    "max_links": 8
+  }
+]

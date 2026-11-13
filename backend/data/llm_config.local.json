@@ -1,0 +1,7 @@
+{
+  "provider": "deepseek",
+  "api_key": "sk-c6f2270e7e0d4b3d8b8bf2a96f07b7e0",
+  "base_url": "https://api.deepseek.com",
+  "model": "deepseek-v4-flash",
+  "notes": "自训练模型优先回答；DeepSeek V4 只作为云端增强接口，不再依赖本地 Qwen/Ollama。"
+}
