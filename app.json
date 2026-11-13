@@ -1,0 +1,62 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/contest/contest",
+    "pages/match/match",
+    "pages/ai/ai",
+    "pages/mine/mine",
+    "pages/detail/detail",
+    "pages/match-detail/match-detail",
+    "pages/team-detail/team-detail",
+    "pages/my-contests/my-contests",
+    "pages/my-teams/my-teams",
+    "pages/information/information",
+    "pages/webview/webview"
+  ],
+  "window": {
+    "navigationBarTitleText": "智竞工大",
+    "navigationBarBackgroundColor": "#67B3DB",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#F7FCFB"
+  },
+  "tabBar": {
+    "color": "#111111",
+    "selectedColor": "#67B3DB",
+    "backgroundColor": "#FEFFF7",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "images/tabbar/home-0.png",
+        "selectedIconPath": "images/tabbar/home-1.png"
+      },
+      {
+        "pagePath": "pages/contest/contest",
+        "text": "竞赛",
+        "iconPath": "images/tabbar/contest-0.png",
+        "selectedIconPath": "images/tabbar/contest-1.png"
+      },
+      {
+        "pagePath": "pages/match/match",
+        "text": "匹配",
+        "iconPath": "images/tabbar/match-0.png",
+        "selectedIconPath": "images/tabbar/match-1.png"
+      },
+      {
+        "pagePath": "pages/ai/ai",
+        "text": "AI助手",
+        "iconPath": "images/tabbar/ai-0.png",
+        "selectedIconPath": "images/tabbar/ai-1.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "images/tabbar/mine-0.png",
+        "selectedIconPath": "images/tabbar/mine-1.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
